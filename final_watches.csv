@@ -1,4 +1,5 @@
-manufacturer,model_name,price,url,movement_type,metal_type,hour_markers,bezel_type,year,discontinued
+Manufacturer,Model,Price ($),Link,Movement,Metal,Hour Markers,Bezel Type,Year,Discontinued
+Rolex,Submariner,38995.00,https://www.bobswatches.com/rolex-submariner-yellow-gold-126618.html,Automatic,Yellow Gold,Luminous,Timing,2010 - Present,No
 Rolex,Datejust 36,10795.00,https://www.bobswatches.com/rolex-datejust-116233-champagne-index-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,Yes
 Rolex,Datejust 41,11795.00,https://www.bobswatches.com/rolex-datejust-41-ref-126334-silver-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
 Rolex,Date,14995.00,https://www.bobswatches.com/rolex-date-15238-18k-yellow-gold-oyster.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
@@ -16,7 +17,6 @@ Rolex,Submariner,12995.00,https://www.bobswatches.com/rolex-submariner-124060-st
 Rolex,Datejust 36,9295.00,https://www.bobswatches.com/rolex-datejust-126234-oyster-bracelet.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
 Rolex,Day-Date 36,38995.00,https://www.bobswatches.com/rolex-day-date-36-ref-128238-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,2010 - Present,No
 Rolex,Explorer II,9495.00,https://www.bobswatches.com/rolex-explorer-ii-216570-white.html,Automatic,Stainless Steel,Luminous,GMT,2010 - Present,Yes
-Rolex,Oyster Perpetual 26,3795.00,https://www.bobswatches.com/rolex-ladies-oyster-perpetual-67180-steel.html,Automatic,Stainless Steel,Index,Smooth,1990s,Yes
 Rolex,Day-Date 36,41595.00,https://www.bobswatches.com/rolex-day-date-36-ref-128238-diamond-dial.html,Automatic,Yellow Gold,Diamond,Fluted,2010 - Present,No
 Rolex,Datejust 36,5995.00,https://www.bobswatches.com/rolex-datejust-1601-champagne.html,Automatic,Steel and Gold,Index,Fluted,1970s,Yes
 Rolex,Datejust 41,14295.00,https://www.bobswatches.com/pre-owned-rolex-datejust-41-ref-126333-black-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,No
@@ -200,7 +200,6 @@ Rolex,Explorer 40,9195.00,https://www.bobswatches.com/rolex-explorer-40-ref-2242
 Rolex,GMT-Master,14995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-stainless-steel-oyster.html,Automatic,Stainless Steel,Tritium,GMT,1970s,Yes
 Rolex,Datejust II,10395.00,https://www.bobswatches.com/rolex-datejust-ii-116334-blue-superluminova-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,Yes
 Rolex,Explorer 40,9195.00,https://www.bobswatches.com/rolex-explorer-40-ref-224270-stainless-steel-oyster.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
-Rolex,Sky-Dweller,42495.00,https://www.bobswatches.com/rolex-sky-dweller-326935-sundust-dial.html,Automatic,Rose Gold,Roman,Fluted,2010 - Present,Yes
 Rolex,GMT-Master,12495.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-steel-pepsi.html,Automatic,Stainless Steel,Tritium,GMT,1960s,Yes
 Rolex,Air-King,5695.00,https://www.bobswatches.com/used-rolex-air-king-5500-black-dial.html,Automatic,Stainless Steel,Index,Smooth,1980s,Yes
 Rolex,Date,4995.00,https://www.bobswatches.com/rolex-date-ref-1500-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,1960s,Yes
@@ -399,11 +398,12 @@ Rolex,Explorer 36,8695.00,https://www.bobswatches.com/pre-owned-rolex-explorer-1
 Rolex,Sea-Dweller,13995.00,https://www.bobswatches.com/pre-owned-rolex-sea-dweller-136660-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
 Rolex,Lady Datejust,6995.00,https://www.bobswatches.com/lady-rolex-datejust-179174-black-luminescent-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,Yes
 Rolex,Air-King,5195.00,https://www.bobswatches.com/rolex-air-king-14010-silver-dial.html,Automatic,Stainless Steel,Index,Engine Turned,1990s,Yes
-Rolex,Datejust 31,15495.00,https://www.bobswatches.com/rolex-datejust-31mm-diamond-178384.html,Automatic,Stainless Steel,Roman,Diamond,2010 - Present,Yes
 Rolex,Date,4795.00,https://www.bobswatches.com/rolex-date-1501-silver.html,Automatic,Stainless Steel,Index,Engine Turned,1960s,Yes
 Rolex,Explorer 36,7195.00,https://www.bobswatches.com/rolex-explorer-114270-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
 Rolex,Submariner,10795.00,https://www.bobswatches.com/submariner-rolex-16610-black.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
 Rolex,GMT-Master II,12495.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-16710-stainless-steel-coke.html,Automatic,Stainless Steel,Luminous,GMT,1990s,Yes
+Rolex,Date,4795.00,https://www.bobswatches.com/vintage-rolex-date-1500-steel.html,Automatic,Stainless Steel,Index,Smooth,1960s,Yes
+Rolex,Oyster Perpetual 39,8495.00,https://www.bobswatches.com/rolex-oyster-perpetual-114300-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
 Patek Philippe,Nautilus,139995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
 Patek Philippe,Gondolo,8495.00,https://www.bobswatches.com/patek-philippe/patek-philippe-gondolo-ref-4825-18k-white-gold.html,Quartz,White Gold,Diamond,Diamond,Not listed,Yes
 Patek Philippe,Calatrava,14495.00,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-ref-5115-yellow-gold.html,Manual,Yellow Gold,Roman,Not listed,Not listed,Yes
@@ -416,6 +416,86 @@ Patek Philippe,Complications,39995.00,https://www.bobswatches.com/patek-philippe
 Patek Philippe,Complications,109995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-grand-complications-perpetual-calendar-chronograph-silver-dial.html,Manual,Rose Gold,Index,Smooth,2010 - Present,Yes
 Patek Philippe,Complications,37995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-18k-rose-gold-diamond-bezel.html,Automatic,Rose Gold,Arabic,Diamond,2010 - Present,Yes
 Patek Philippe,Complications,41995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-rose-gold-olive-green-dial.html,Automatic,Rose Gold,Index,Diamond,2010 - Present,No
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-chronograph-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-black-embossed-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-ivory-dial.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-phillipe-nautilus-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-ellipse-yellow-gold.html,Manual,Yellow Gold,Index,Smooth,1980s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2000s,Not listed
+Patek Philippe,Gondolo,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-gondolo-18k-rose-gold.html,Manual,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/mens-patek-philippe-calatrava-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,1990s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-3919.html,Manual,Yellow Gold,Roman,Not listed,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-perpetual-calendar-18k-yellow-gold.html,Automatic,Yellow Gold,Arabic,Smooth,1990s,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-annual-calendar.html,Automatic,Yellow Gold,Roman,Smooth,2000s,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-phillipe-nautilus-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-moon-phases.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-flyback-chronograph-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-chronograph-date-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-complications-annual-calendar.html,Automatic,White Gold,Arabic,Diamond,2010 - Present,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-weekly-calendar.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-blue-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/used-patek-philippe-calatrava-18k-yellow-gold.html,Automatic,Yellow Gold,Index,Smooth,1980s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-silver-dial.html,Automatic,White Gold,Index,Smooth,2000s,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-platinum.html,Automatic,Platinum,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-pilot-travel-time.html,Automatic,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-chronograph-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2000s,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-golden-ellipse-3739.html,Automatic,Yellow Gold,Index,Smooth,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-grand-complications-18k-rose-gold.html,Automatic,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Gondolo,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-gondolo-18k-yellow-gold.html,Automatic,Yellow Gold,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-complications-18k-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-white-roman-dial.html,Manual,White Gold,Roman,Not listed,2000s,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-nautilus-18k-yellow-gold.html,Quartz,Yellow Gold,Index,Smooth,1980s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/used-patek-philippe-calatrava-18k-rose-gold.html,Manual,Rose Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-golden-ellipse-3738.html,Automatic,White Gold,Index,Smooth,2000s,Not listed
+Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-golden-ellipse-3838-1.html,Quartz,Yellow Gold,Index,Not listed,1980s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-roman-dial.html,Automatic,Yellow Gold,Roman,Not listed,1990s,Not listed
+Patek Philippe,Gondolo,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-gondolo-18k-rose-gold-5098r.html,Manual,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-nautilus-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-18k-gold.html,Automatic,Yellow Gold,Index,Not listed,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-calatrava-18k-yellow-gold.html,Manual,Yellow Gold,Roman,Not listed,2000s,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-neptune-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/mens-patek-philippe-nautilus-5712g-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/mens-pre-owned-patek-philippe-aquanaut.html,Automatic,Stainless Steel,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-grand-complications.html,Automatic,Platinum,Index,Smooth,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-18k-yellow-gold.html,Manual,Yellow Gold,Index,Smooth,1980s,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-complications.html,Automatic,Platinum,Index,Smooth,2000s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava-3919.html,Manual,Yellow Gold,Roman,Not listed,Not listed,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-calatrava.html,Quartz,Yellow Gold,Roman,Not listed,Not listed,Not listed
+Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-3581.html,Manual,Yellow Gold,Index,Smooth,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-grand-complication.html,Automatic,White Gold,Index,Not listed,2010 - Present,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-3710-1a-nautilus.html,Automatic,Stainless Steel,Roman,Smooth,Not listed,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-5726-1a-010-silver-dial.html,Automatic,Stainless Steel,Luminous,Smooth,2010 - Present,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-5167-1a-mint-condition.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Patek Philippe,Twenty-4,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-twenty-four-eternal-gray-4910-10a.html,Automatic,Stainless Steel,Diamond,Not listed,Not listed,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-5065.html,Automatic,Stainless Steel,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-5146g-010-white-gold.html,Automatic,White Gold,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-5167-1a.html,Automatic,Stainless Steel,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-2584.html,Not listed,Yellow Gold,Index,Not listed,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-5134p-calatrava-travel-time-platinum.html,Automatic,Platinum,Index,Smooth,Not listed,Not listed
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-moon-phase-5712-1a.html,Not listed,Stainless Steel,Luminous,Smooth,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/preowned-patek-philippe-calatrava-3919.html,Not listed,Yellow Gold,Roman,Not listed,Not listed,Not listed
+Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-chronograph-5170g.html,Not listed,White Gold,Arabic,Smooth,Not listed,Not listed
+Patek Philippe,Annual Calendar,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-annual-calendar-5035r-rose-gold.html,Not listed,Rose Gold,Roman,Smooth,Not listed,Not listed
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-5012-yelow-gold-case.html,Not listed,Yellow Gold,Index,Smooth,Not listed,Not listed
+Patek Philippe,Twenty-4,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-twenty-four-4910.html,Quartz,Stainless Steel,Diamond,Diamond,2000s,Yes
+Patek Philippe,Cocktail,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-ladies-cocktail-watch-4722.html,Quartz,Yellow Gold,Diamond,Diamond,Not listed,No
+Patek Philippe,Twenty-4,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-ladies-twenty-four.html,Quartz,Stainless Steel,Diamond,Diamond,2000s,Yes
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-silver-dial.html,Manual,Yellow Gold,Index,Smooth,1940s,Yes
+Patek Philippe,Cocktail,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-ladies-cocktail-watch-3266.html,Manual,Yellow Gold,Index,Smooth,Not listed,Yes
+Patek Philippe,Twenty-4,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-twenty-four.html,Quartz,Stainless Steel,Diamond,Diamond,2000s,Yes
+Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-2482.html,Automatic,Rose Gold,Roman,Smooth,1990s,Yes
+Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philipe-nautilus-5980.html,Not listed,Stainless Steel,Not listed,Not listed,Not listed,Not listed
 Audemars Piguet,Jules Audemars,19995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-jules-audemars-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
 Audemars Piguet,Royal Oak Offshore,24995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-brown-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
 Audemars Piguet,Royal Oak Offshore,25995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-diver-grey-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
@@ -427,6 +507,28 @@ Audemars Piguet,Royal Oak,35995.00,https://www.bobswatches.com/audemars-piguet/a
 Audemars Piguet,Royal Oak Offshore,18495.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-48-shaquille-oneal-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
 Audemars Piguet,Royal Oak Offshore,23495.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-la-boutique-special-edition.html,Automatic,Stainless Steel,Diamond,Diamond,2000s,Yes
 Audemars Piguet,Jules Audemars,29995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-jules-audemars-equation-of-time-18k-white-gold.html,Automatic,White Gold,Roman,Not listed,2000s,Not listed
+Audemars Piguet,Royal Oak Offshore Chronograph,Not listed,https://www.bobswatches.com/collections/audemars-piguet-royal-oak-offshore-chronograph-blue.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-rose-gold-and-tantalum.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-selfwinding-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Edward Piguet,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-edward-piguet-18k-rose-gold.html,Manual,Rose Gold,Roman,Smooth,2010 - Present,Not listed
+Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-titanium.html,Automatic,Titanium,Arabic,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-blue-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-diamond-bezel.html,Automatic,Stainless Steel,Index,Diamond,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-silver-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
+Audemars Piguet,Code 11.59,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-code-1159-burgundy-dial.html,Automatic,White Gold,Arabic,Timing,Not listed,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-offshore-titanium.html,Automatic,Titanium,Index,Not listed,1990s,Not listed
+Audemars Piguet,Millenary,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-millenary-4101-stainless-steel.html,Automatic,Stainless Steel,Roman,Smooth,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore.html,Automatic,Stainless Steel,Arabic,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-chronograph-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-18k-rose-gold.html,Automatic,Rose Gold,Arabic,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grey-ruthenium-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-light-brown-mega-tapisserie-dial.html,Automatic,Stainless Steel,Index,Ceramic,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-jumbo-extra-thin.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grande-tapisserie-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Audemars Piguet,Jules Audemars,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-ultra-thin-18k-yellow-gold.html,Manual,Yellow Gold,Roman,Not listed,1980s,Not listed
 Breitling,Endurance Pro,2495.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-breitlight-black-dial-yellow-strap.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,Not listed
 Breitling,Superocean,2695.00,https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-orange-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
 Breitling,Navitimer,3695.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-36-mint-green-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
@@ -542,7 +644,6 @@ Breitling,Navitimer,4395.00,https://www.bobswatches.com/breitling/breitling-navi
 Breitling,Navitimer,4495.00,https://www.bobswatches.com/breitling/breitling-navitimer-chronograph-41-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
 Breitling,Bentley,4595.00,https://www.bobswatches.com/breitling/breitling-bentley-gt-special-edition.html,Automatic,Stainless Steel,Index,Tachymetric,2000s,Yes
 Breitling,Avenger,3595.00,https://www.bobswatches.com/breitling/pre-owned-breitling-avenger-automatic-42-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
-Breitling,Galactic,2795.00,https://www.bobswatches.com/breitling/breitling-galactic-36-stainless-steel-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
 Breitling,Navitimer Automatic 41,4995.00,https://www.bobswatches.com/breitling/breitling-navitimer-1-automatic-41-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
 Breitling,Navitimer,3495.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-diamond-mother-of-pearl-dial.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,Yes
 Breitling,Superocean 44,4695.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-chronograph-44-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
@@ -616,3 +717,19 @@ Breitling,Superocean,2695.00,https://www.bobswatches.com/breitling/used-breitlin
 Breitling,Super Avenger II,3995.00,https://www.bobswatches.com/breitling/breitling-super-avenger-ii-stainless-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
 Breitling,Chronomat,5895.00,https://www.bobswatches.com/breitling/breitling-super-chronomat-b01-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
 Breitling,Exospace B55,4795.00,https://www.bobswatches.com/breitling/breitling-exospace-b55-chronograph-digital-display.html,Quartz,Titanium,Arabic,Timing,2010 - Present,Yes
+Breitling,Chronomat,Not listed,https://www.bobswatches.com/breitling/breitling-chronomat-b01-42-steel-and-18k-red-gold.html,Automatic,Steel and Rose Gold,Index,Timing,2010 - Present,No
+Breitling,Chronomat,Not listed,https://www.bobswatches.com/breitling/breitling-chronomat-stainless-steel-and-yellow-gold.html,Automatic,Steel and Gold,Arabic,Diamond,2000s,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/breitling-aviator-8.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-stainless-steel.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/breitling-aviator-8-blue-dial.html,Automatic,Stainless Steel,Arabic,Fluted,2010 - Present,Not listed
+Breitling,Endurance Pro,Not listed,https://www.bobswatches.com/breitling/breitling-endurance-pro-black-dial.html,Quartz,Stainless Steel,Arabic,Not listed,2010 - Present,Not listed
+Breitling,Chronomat,Not listed,https://www.bobswatches.com/breitling/breitling-chronomat-evolution-black-dial.html,Automatic,Stainless Steel,Index,GMT,2010 - Present,Not listed
+Breitling,Chronomat,Not listed,https://www.bobswatches.com/breitling/breitling-chronomat-evolution-stainless-steel.html,Automatic,Stainless Steel,Index,GMT,2010 - Present,Not listed
+Breitling,Endurance Pro,Not listed,https://www.bobswatches.com/breitling/pre-owned-breitling-endurance-pro.html,Automatic,Stainless Steel,Arabic,Tachymetric,2010 - Present,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/breitling-navitimer-world-chronograph-leather-strap.html,Automatic,Rose Gold,Index,Tachymetric,2000s,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-black-dial.html,Automatic,Stainless Steel,Arabic,Not listed,2010 - Present,Not listed
+Breitling,Navitimer 8,Not listed,https://www.bobswatches.com/breitling/mens-breitling-navitimer-8-black-dial.html,Automatic,Stainless Steel,Arabic,Not listed,2010 - Present,Not listed
+Breitling,Chronomat,Not listed,https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-blackbird.html,Automatic,Stainless Steel,Index,Timing,Not listed,Not listed
+Breitling,Chronospace,Not listed,https://www.bobswatches.com/breitling/breitling-chronospace-evo-night-mission-titanium.html,Quartz,Titanium,Arabic,Timing,2010 - Present,Not listed
+Breitling,Montbrillant,Not listed,https://www.bobswatches.com/breitling/breitling-montbrillant-stainless-steel.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Not listed
+Breitling,Navitimer,Not listed,https://www.bobswatches.com/breitling/breitling-navitimer-01-grey-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Not listed
