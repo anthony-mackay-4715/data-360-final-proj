@@ -1,11 +1,17 @@
-manufacturer,model_name,price,url,movement_type,metal_type,hour_markers,bezel_type,years_available,discontinued
+manufacturer,model_name,price,url,movement_type,metal_type,hour_markers,bezel_type,year,discontinued
+Rolex,Datejust 36,10795.00,https://www.bobswatches.com/rolex-datejust-116233-champagne-index-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,Yes
 Rolex,Datejust 41,11795.00,https://www.bobswatches.com/rolex-datejust-41-ref-126334-silver-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,Date,14995.00,https://www.bobswatches.com/rolex-date-15238-18k-yellow-gold-oyster.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Datejust II,9495.00,https://www.bobswatches.com/rolex-datejust-ii-ref-116334-roman-dial.html,Automatic,Stainless Steel,Roman,Fluted,2010 - Present,Yes
+Rolex,Date,7495.00,https://www.bobswatches.com/pre-owned-rolex-date-ref-1503-yellow-gold.html,Automatic,Yellow Gold,Index,Fluted,1970s,Yes
 Rolex,Submariner,36995.00,https://www.bobswatches.com/rolex-submariner-116619-blue-smurf.html,Automatic,White Gold,Luminous,Timing,2010 - Present,Yes
 Rolex,Daytona,44495.00,https://www.bobswatches.com/rolex-daytona-116505-everose-gold.html,Automatic,Rose Gold,Index,Tachymetric,2010 - Present,Not listed
 Rolex,Datejust 41,13995.00,https://www.bobswatches.com/pre-owned-rolex-datejust-41-ref-126334-slate-diamond-dial.html,Automatic,Stainless Steel,Diamond,Fluted,2010 - Present,No
 Rolex,OysterDate,3995.00,https://www.bobswatches.com/rolex-oysterdate-ref-6694-steel-oyster.html,Manual,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Oyster Perpetual,4195.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-67180-black-dial.html,Automatic,Stainless Steel,Index,Smooth,1990s,Yes
 Rolex,Submariner,9995.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-1680-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,1970s,Yes
 Rolex,Daytona,36995.00,https://www.bobswatches.com/rolex-daytona-ref-116528-black-dial.html,Automatic,Yellow Gold,Index,Tachymetric,2010 - Present,Yes
+Rolex,Datejust 36,8595.00,https://www.bobswatches.com/pre-owned-rolex-datejust-36-ref-126200-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
 Rolex,Submariner,12995.00,https://www.bobswatches.com/rolex-submariner-124060-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
 Rolex,Datejust 36,9295.00,https://www.bobswatches.com/rolex-datejust-126234-oyster-bracelet.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
 Rolex,Day-Date 36,38995.00,https://www.bobswatches.com/rolex-day-date-36-ref-128238-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,2010 - Present,No
@@ -44,6 +50,360 @@ Rolex,Explorer II,12995.00,https://www.bobswatches.com/rolex-explorer-ii-ref-226
 Rolex,Lady Datejust,19495.00,https://www.bobswatches.com/ladies-rolex-datejust-179159-dark-mother-of-pearl-dial.html,Automatic,White Gold,Diamond,Diamond,2000s,Yes
 Rolex,Datejust 31,6995.00,https://www.bobswatches.com/lady-rolex-datejust-ref-178240-stainless-steel.html,Automatic,Stainless Steel,Roman,Smooth,2010 - Present,Not listed
 Rolex,Date,5795.00,https://www.bobswatches.com/rolex-date-ref-15223-two-tone.html,Automatic,Steel and Gold,Index,Engine Turned,1990s,Yes
+Rolex,GMT-Master,12995.00,https://www.bobswatches.com/pre-owned-mens-rolex-gmt-master-ii-model-16710.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Sky-Dweller,23495.00,https://www.bobswatches.com/rolex-sky-dweller-ref-326934-blue-chromalight-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,Submariner,22495.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-5513-gilt-underline.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Yes
+Rolex,GMT-Master,15995.00,https://www.bobswatches.com/rolex-vintage-gmt-1675-pepsi.html,Automatic,Stainless Steel,Not listed,GMT,1970s,Yes
+Rolex,Datejust 36,9995.00,https://www.bobswatches.com/rolex-datejust-ref-126234-white-roman-dial.html,Automatic,Stainless Steel,Roman,Fluted,2010 - Present,Not listed
+Rolex,Sea-Dweller,43995.00,https://www.bobswatches.com/rolex-sea-dweller-deepsea-challenge-ref-126067-rlx-titanium.html,Automatic,Titanium,Luminous,Timing,2010 - Present,No
+Rolex,Day-Date 36,34495.00,https://www.bobswatches.com/rolex-president-day-date-118348-yellow-gold.html,Automatic,Yellow Gold,Arabic,Diamond,2000s,Not listed
+Rolex,Datejust 36,6695.00,https://www.bobswatches.com/rolex-datejust-two-tone-16233-black-dial.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,GMT-Master II,34795.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-116718-18k-yellow-gold-green-dial.html,Automatic,Yellow Gold,Luminous,GMT,2010 - Present,Yes
+Rolex,Submariner,18595.00,https://www.bobswatches.com/rolex-submariner-116610lv-green-hulk.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Datejust 31,17995.00,https://www.bobswatches.com/rolex-datejust-278241-steel-and-18k-everose-gold.html,Automatic,Steel and Rose Gold,No Numerals,Smooth,2010 - Present,Yes
+Rolex,Date,4995.00,https://www.bobswatches.com/pre-owned-rolex-date-1500-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,1960s,Yes
+Rolex,Datejust 31,13995.00,https://www.bobswatches.com/rolex-datejust-278273-oystersteel-and-18k-yellow-gold-white-dial.html,Automatic,Steel and Gold,Roman,Smooth,2010 - Present,No
+Rolex,Day-Date 36,17695.00,https://www.bobswatches.com/rolex-day-date-ref-18038-white-roman-dial.html,Automatic,Yellow Gold,Roman,Fluted,1980s,Yes
+Rolex,Sky-Dweller,41995.00,https://www.bobswatches.com/rolex-sky-dweller-326938-silver-roman-dial.html,Automatic,Yellow Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,Day-Date 40,118995.00,https://www.bobswatches.com/rolex-day-date-40-ref-228396-ice-blue-dial.html,Automatic,Platinum,Diamond,Diamond,2010 - Present,No
+Rolex,Submariner,10995.00,https://www.bobswatches.com/vintage-1984-rolex-submariner-16800-matte-black-dial.html,Automatic,Stainless Steel,Tritium,Timing,1980s,Yes
+Rolex,GMT-Master II,12795.00,https://www.bobswatches.com/rolex-gmt-master-ii-16713-steel-and-gold.html,Automatic,Steel and Gold,Luminous,GMT,2000s,Yes
+Rolex,Oyster Perpetual 31,4495.00,https://www.bobswatches.com/rolex-midsize-oyster-perpetual-77080.html,Automatic,Stainless Steel,Roman,Smooth,1990s,Yes
+Rolex,Datejust 36,6295.00,https://www.bobswatches.com/rolex-datejust-ref-16013-silver-tapestry-dial.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Submariner,13495.00,https://www.bobswatches.com/rolex-ceramic-submariner-116613-blue-dial.html,Automatic,Steel and Gold,Luminous,Ceramic,2010 - Present,Yes
+Rolex,Day-Date 36,24995.00,https://www.bobswatches.com/rolex-day-date-118238-silver-index-dial.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Oyster Perpetual 36,15995.00,https://www.bobswatches.com/rolex-oyster-perpetual-126000-yellow-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
+Rolex,Date,12495.00,https://www.bobswatches.com/rolex-date-ref-15037-yellow-gold.html,Automatic,Yellow Gold,Index,Fluted,1980s,Yes
+Rolex,Day-Date 36,18495.00,https://www.bobswatches.com/rolex-day-date-18038-jubilee-dial.html,Automatic,Yellow Gold,Diamond,Fluted,1980s,Yes
+Rolex,Datejust 36,6695.00,https://www.bobswatches.com/rolex-datejust-36-ref-16233-ivory-roman-dial.html,Automatic,Steel and Gold,Roman,Fluted,1990s,Not listed
+Rolex,Date,6195.00,https://www.bobswatches.com/rolex-oyster-perpetual-date-15223-two-tone.html,Automatic,Steel and Gold,Index,Engine Turned,1990s,Yes
+Rolex,Lady Datejust,4295.00,https://www.bobswatches.com/womens-rolex-datejust-69173-champagne.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,GMT-Master,13995.00,https://www.bobswatches.com/rolex-vintage-gmt-master-1675-ghost-bezel.html,Automatic,Stainless Steel,Tritium,GMT,1970s,Yes
+Rolex,GMT-Master II,38595.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126719-pepsi.html,Automatic,White Gold,Luminous,GMT,2010 - Present,No
+Rolex,Yacht-Master II,17495.00,https://www.bobswatches.com/rolex-yacht-master-ii-116680-white-dial.html,Automatic,Stainless Steel,Luminous,Ceramic,2010 - Present,Yes
+Rolex,Cellini,6495.00,https://www.bobswatches.com/rolex-cellini-6623-18k-white-gold.html,Quartz,White Gold,Roman,Smooth,1990s,Yes
+Rolex,Yacht-Master II,18995.00,https://www.bobswatches.com/rolex-yacht-master-ii-116680-blue-ceramic-bezel.html,Automatic,Stainless Steel,Luminous,Ceramic,2010 - Present,Yes
+Rolex,Daytona,37495.00,https://www.bobswatches.com/rolex-cosmograph-daytona-ref-126500-white-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,No
+Rolex,Lady Datejust,10995.00,https://www.bobswatches.com/ladies-rolex-datejust-ref-179171-black-dial.html,Automatic,Steel and Rose Gold,Arabic,Fluted,2000s,Yes
+Rolex,Explorer II,9495.00,https://www.bobswatches.com/rolex-explorer-ii-ref-216570-black-dial.html,Automatic,Stainless Steel,Luminous,GMT,2010 - Present,Yes
+Rolex,Explorer II,8695.00,https://www.bobswatches.com/pre-owned-rolex-explorer-ii-ref-16570-black-dial.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Sea-Dweller,8995.00,https://www.bobswatches.com/vintage-rolex-sea-dweller-ref-16660-stainless-steel.html,Automatic,Stainless Steel,Tritium,Timing,1980s,Yes
+Rolex,Daytona,49995.00,https://www.bobswatches.com/rolex-cosmograph-daytona-126509-black-diamond-dial.html,Automatic,White Gold,Diamond,Tachymetric,2010 - Present,No
+Rolex,Sky-Dweller,43995.00,https://www.bobswatches.com/pre-owned-rolex-sky-dweller-336235-slate-dial.html,Automatic,Rose Gold,Index,Fluted,2010 - Present,Not listed
+Rolex,Cellini,11495.00,https://www.bobswatches.com/rolex-cellini-5442-18k-everose-gold.html,Manual,Rose Gold,Arabic,Smooth,2000s,Yes
+Rolex,Daytona,39995.00,https://www.bobswatches.com/rolex-daytona-ref-116515-18k-everose-gold.html,Automatic,Rose Gold,Index,Tachymetric,2010 - Present,Yes
+Rolex,Yacht-Master 40,15695.00,https://www.bobswatches.com/rolex-yacht-master-126621-steel-and-everose-gold.html,Automatic,Steel and Rose Gold,Luminous,Timing,2010 - Present,No
+Rolex,Day-Date 36,34495.00,https://www.bobswatches.com/rolex-day-date-ref-128239-silver-dial.html,Automatic,White Gold,Index,Fluted,2010 - Present,No
+Rolex,Datejust 36,7895.00,https://www.bobswatches.com/rolex-datejust-ref-16233-blue-vignette-diamond-dial.html,Automatic,Steel and Gold,Diamond,Fluted,1990s,Yes
+Rolex,Explorer 36,10395.00,https://www.bobswatches.com/pre-owned-rolex-explorer-124273-steel-and-18k-gold.html,Automatic,Steel and Gold,Arabic,Smooth,2010 - Present,No
+Rolex,Not listed,32995.00,https://www.bobswatches.com/vintage-rolex-oyster-chronograph-ref-6234-pre-daytona.html,Manual,Stainless Steel,Index,Smooth,1950s,Yes
+Rolex,Yacht-Master 40,13795.00,https://www.bobswatches.com/rolex-yacht-master-126622-blue-dial.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Air-King,5995.00,https://www.bobswatches.com/rolex-air-king-14000-champagne-index-dial.html,Automatic,Stainless Steel,Index,Smooth,1990s,Yes
+Rolex,Sky-Dweller,41995.00,https://www.bobswatches.com/rolex-sky-dweller-ref-326938-silver-roman-dial.html,Automatic,Yellow Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,Datejust 36,6295.00,https://www.bobswatches.com/rolex-datejust-16030-blue-jubilee-dial.html,Automatic,Stainless Steel,Arabic,Engine Turned,1980s,Yes
+Rolex,Oyster Perpetual,4895.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-76183-champagne-dial.html,Automatic,Steel and Gold,Index,Smooth,2000s,Yes
+Rolex,Yacht-Master 42,29795.00,https://www.bobswatches.com/rolex-yacht-master-ref-226659-18k-white-gold.html,Automatic,White Gold,Luminous,Timing,2010 - Present,No
+Rolex,Submariner,36995.00,https://www.bobswatches.com/rolex-submariner-116619-white-gold.html,Automatic,White Gold,Luminous,Timing,2010 - Present,Yes
+Rolex,Datejust 36,7995.00,https://www.bobswatches.com/rolex-datejust-ref-116234-black-dial.html,Automatic,Stainless Steel,Index,Fluted,2000s,Yes
+Rolex,Submariner,14295.00,https://www.bobswatches.com/rolex-submariner-date-126610lv-green-ceramic-41mm.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Oyster Perpetual 26,5895.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-ref-176200-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Explorer II,8795.00,https://www.bobswatches.com/rolex-explorer-ii-216570-black-42mm.html,Automatic,Stainless Steel,Luminous,GMT,2010 - Present,Yes
+Rolex,GMT-Master II,11995.00,https://www.bobswatches.com/used-stainless-steel-rolex-gmt-master-ii-ref-16710-coke.html,Automatic,Stainless Steel,Luminous,GMT,1990s,Yes
+Rolex,Submariner,9995.00,https://www.bobswatches.com/rolex-submariner-ref-16800-transitional-model.html,Automatic,Stainless Steel,Tritium,Timing,1980s,Yes
+Rolex,Day-Date 36,19995.00,https://www.bobswatches.com/rolex-day-date-18238-wood-dial.html,Automatic,Yellow Gold,Index,Fluted,1990s,Yes
+Rolex,Datejust 31,14995.00,https://www.bobswatches.com/rolex-datejust-31-ref-278271-purple-dial.html,Automatic,Steel and Rose Gold,Roman,Fluted,2010 - Present,No
+Rolex,GMT-Master,12995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-steel-oyster-pepsi.html,Automatic,Stainless Steel,Tritium,GMT,1970s,Yes
+Rolex,Datejust 41,16495.00,https://www.bobswatches.com/rolex-datejust-41-ref-126301-diamond-dial.html,Automatic,Steel and Rose Gold,Diamond,Smooth,2010 - Present,Yes
+Rolex,Datejust 36,5595.00,https://www.bobswatches.com/rolex-datejust-ref-16220-silver-dial.html,Automatic,Stainless Steel,Index,Engine Turned,1990s,Yes
+Rolex,Datejust 36,6495.00,https://www.bobswatches.com/rolex-datejust-ref-16234-black-dial.html,Automatic,Stainless Steel,Index,Fluted,2000s,Yes
+Rolex,Datejust 36,12495.00,https://www.bobswatches.com/rolex-datejust-ref-116201-black-concentric-dial.html,Automatic,Steel and Rose Gold,Arabic,Smooth,2000s,Yes
+Rolex,Datejust 36,23495.00,https://www.bobswatches.com/rolex-datejust-126283-silver-roman-dial.html,Automatic,Steel and Gold,Roman,Diamond,2010 - Present,No
+Rolex,Day-Date 40,61995.00,https://www.bobswatches.com/rolex-day-date-40-ref-228348-diamond-bezel.html,Automatic,Yellow Gold,Roman,Diamond,2010 - Present,No
+Rolex,Cellini,5695.00,https://www.bobswatches.com/rolex-cellini-3714-18k-white-gold.html,Manual,White Gold,Index,Smooth,1950s,Yes
+Rolex,Submariner,14995.00,https://www.bobswatches.com/rolex-submariner-16610v-green.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Datejust 41,9995.00,https://www.bobswatches.com/rolex-datejust-41-ref-126300-steel.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Rolex,Submariner,14495.00,https://www.bobswatches.com/rolex-submariner-ref-126610lv-starbucks.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Oyster Perpetual 36,8995.00,https://www.bobswatches.com/rolex-oyster-perpetual-ref-126000-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
+Rolex,Sky-Dweller,31995.00,https://www.bobswatches.com/rolex-sky-dweller-ref-326138-silver-roman-dial.html,Automatic,Yellow Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,Date,4195.00,https://www.bobswatches.com/womens-rolex-date-ref-69173-champagne-dial.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Sky-Dweller,24995.00,https://www.bobswatches.com/rolex-sky-dweller-ref-336934-green-index-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,Datejust 36,6395.00,https://www.bobswatches.com/rolex-datejust-36-16233-steel-and-yellow-gold.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,Explorer 40,9095.00,https://www.bobswatches.com/rolex-explorer-40-ref-224270-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Rolex,Submariner,12395.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-16800-matte-black-dial.html,Automatic,Stainless Steel,Tritium,Timing,1980s,Yes
+Rolex,Daytona,39595.00,https://www.bobswatches.com/rolex-daytona-116515-everose-gold.html,Automatic,Rose Gold,Index,Tachymetric,2010 - Present,Yes
+Rolex,GMT-Master II,21795.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126713grnr-stainless-steel-and-18k-yellow-gold.html,Automatic,Steel and Gold,Luminous,GMT,2010 - Present,No
+Rolex,Lady Datejust,8495.00,https://www.bobswatches.com/rolex-datejust-6917-18k-yellow-gold.html,Automatic,Yellow Gold,Index,Fluted,1980s,Yes
+Rolex,GMT-Master II,20495.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126710blro-jubilee-bracelet-pepsi.html,Automatic,Stainless Steel,Luminous,GMT,2010 - Present,No
+Rolex,Lady Datejust,19495.00,https://www.bobswatches.com/lady-rolex-datejust-279384-pink-diamond-dial.html,Automatic,Stainless Steel,Diamond,Diamond,2010 - Present,No
+Rolex,Datejust 36,6995.00,https://www.bobswatches.com/rolex-datejust-ref-116200-black-roman-dial.html,Automatic,Stainless Steel,Roman,Smooth,2000s,Yes
+Rolex,Datejust 36,6395.00,https://www.bobswatches.com/used-rolex-datejust-ref-16233-champagne-dial.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,Oyster Perpetual,3595.00,https://www.bobswatches.com/lady-rolex-oyster-perpetual-ref-76080-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
+Rolex,Date,4295.00,https://www.bobswatches.com/lady-rolex-date-79160-blue-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
+Rolex,Sky-Dweller,42495.00,https://www.bobswatches.com/pre-owned-rolex-sky-dweller-326935-white-dial.html,Automatic,Rose Gold,Index,Fluted,2010 - Present,No
+Rolex,Datejust 41,11995.00,https://www.bobswatches.com/rolex-datejust-41-ref-126300-wimbledon-dial.html,Automatic,Stainless Steel,Roman,Smooth,2010 - Present,No
+Rolex,Datejust 41,10695.00,https://www.bobswatches.com/rolex-datejust-41-126300-blue-index-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Rolex,OysterDate,3995.00,https://www.bobswatches.com/pre-owned-rolex-oyster-date-6694-silver-linen-dial.html,Manual,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Sea-Dweller,13295.00,https://www.bobswatches.com/rolex-sea-dweller-126660-black-dial.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Day-Date 36,18195.00,https://www.bobswatches.com/rolex-day-date-presidential-18238-pyramid-dial.html,Automatic,Yellow Gold,Roman,Fluted,1990s,Yes
+Rolex,Oyster Perpetual 34,5995.00,https://www.bobswatches.com/pre-owned-rolex-oyster-perpetual-14233-two-tone.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Submariner,14695.00,https://www.bobswatches.com/rolex-submariner-126610lv-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Day-Date 36,23695.00,https://www.bobswatches.com/rolex-day-date-ref-118238-tapestry-dial.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Oyster Perpetual 26,4195.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-ref-76030-stainless-steel.html,Automatic,Stainless Steel,Arabic,Engine Turned,2000s,Not listed
+Rolex,Lady Datejust,10595.00,https://www.bobswatches.com/ladies-rolex-ref-datejust-179171-stainless-steel-and-everose-gold.html,Automatic,Steel and Rose Gold,Arabic,Fluted,2000s,Yes
+Rolex,Day-Date 40,59995.00,https://www.bobswatches.com/rolex-day-date-40-ref-228206-platinum.html,Automatic,Platinum,Roman,Smooth,2010 - Present,Yes
+Rolex,Day-Date 36,23695.00,https://www.bobswatches.com/rolex-day-date-ref-118238-champagne-tapestry-dial.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Day-Date II,35995.00,https://www.bobswatches.com/rolex-day-date-ii-ref-218235-black-arabic-dial.html,Automatic,Rose Gold,Arabic,Fluted,2000s,Yes
+Rolex,Yacht-Master 37,24495.00,https://www.bobswatches.com/pre-owned-rolex-yacht-master-268655.html,Automatic,Rose Gold,Luminous,Timing,2010 - Present,Yes
+Rolex,GMT-Master II,36495.00,https://www.bobswatches.com/rolex-gmt-master-ii-everose-126715-root-beer-model.html,Automatic,Rose Gold,Luminous,GMT,2010 - Present,No
+Rolex,Lady Datejust,5595.00,https://www.bobswatches.com/ladies-rolex-datejust-79174-silver-roman-dial.html,Automatic,Stainless Steel,Roman,Fluted,2000s,Yes
+Rolex,Datejust 31,10595.00,https://www.bobswatches.com/ladies-rolex-datejust-31-ref-278274-dark-grey-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,Datejust 41,14795.00,https://www.bobswatches.com/rolex-datejust-41-ref-126331-chocolate-dial.html,Automatic,Steel and Rose Gold,Index,Fluted,2010 - Present,Yes
+Rolex,GMT-Master,19995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-mk-ii-dial-pepsi.html,Automatic,Stainless Steel,Tritium,GMT,1970s,Yes
+Rolex,Explorer 36,6795.00,https://www.bobswatches.com/rolex-explorer-114270-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
+Rolex,Sea-Dweller,16995.00,https://www.bobswatches.com/rolex-sea-dweller-126603-ceramic-bezel.html,Automatic,Steel and Gold,Luminous,Timing,2010 - Present,No
+Rolex,Datejust 31,13495.00,https://www.bobswatches.com/ladies-rolex-datejust-ref-178341-steel-and-18k-everose.html,Automatic,Steel and Rose Gold,Roman,Diamond,2010 - Present,No
+Rolex,Day-Date 36,20995.00,https://www.bobswatches.com/rolex-day-date-36-ref-118239-white-roman-dial.html,Automatic,White Gold,Roman,Fluted,2000s,Yes
+Rolex,Submariner,36995.00,https://www.bobswatches.com/rolex-submariner-126619lb-18k-white-gold.html,Automatic,White Gold,Luminous,Timing,2010 - Present,No
+Rolex,Air-King,6495.00,https://www.bobswatches.com/vintage-rolex-air-king-5500-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Datejust 36,13795.00,https://www.bobswatches.com/rolex-datejust-36-ref-126234-green-palm-motif-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,Yes
+Rolex,Lady Datejust,14995.00,https://www.bobswatches.com/ladies-rolex-datejust-179383-crystal-diamond-dial.html,Automatic,Steel and Gold,Diamond,Diamond,2010 - Present,Yes
+Rolex,Date,5295.00,https://www.bobswatches.com/pre-owned-rolex-date-ref-15200-stainless-steel.html,Automatic,Stainless Steel,Roman,Smooth,1990s,Yes
+Rolex,Date,6295.00,https://www.bobswatches.com/rolex-date-115200-black-dial.html,Automatic,Stainless Steel,Roman,Smooth,2000s,Yes
+Rolex,Oyster Perpetual 41,8695.00,https://www.bobswatches.com/rolex-oyster-perpetual-black-124300.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Datejust 36,6395.00,https://www.bobswatches.com/rolex-datejust-16233-stainless-steel-and-yellow-gold.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Sky-Dweller,23495.00,https://www.bobswatches.com/rolex-sky-dweller-326934-blue-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,Explorer II,7995.00,https://www.bobswatches.com/mens-rolex-explorer-ii-16570-black.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Submariner,13295.00,https://www.bobswatches.com/rolex-submariner-16613-black-dial-with-two-tone-oyster.html,Automatic,Steel and Gold,Luminous,Timing,2000s,Yes
+Rolex,Submariner,12295.00,https://www.bobswatches.com/rolex-submariner-16613-black-bezel.html,Automatic,Steel and Gold,Tritium,Timing,1980s,Yes
+Rolex,Datejust 36,23495.00,https://www.bobswatches.com/rolex-datejust-36-ref-126283-stainless-steel-and-18k-yellow-gold.html,Automatic,Steel and Gold,Diamond,Diamond,2010 - Present,No
+Rolex,Date,11595.00,https://www.bobswatches.com/rolex-date-ref-1503-yellow-gold.html,Automatic,Yellow Gold,Index,Fluted,1970s,Yes
+Rolex,GMT-Master,17495.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-tropical-dial.html,Automatic,Stainless Steel,Tritium,GMT,1960s,Yes
+Rolex,Oyster Perpetual,8995.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-67197-yellow-gold.html,Automatic,Yellow Gold,Diamond,Fluted,1980s,Yes
+Rolex,OysterDate,4195.00,https://www.bobswatches.com/rolex-oysterdate-ref-6694-silver-dial.html,Manual,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Daytona,59995.00,https://www.bobswatches.com/rolex-vintage-daytona-6265-stainless-steel.html,Manual,Stainless Steel,Index,Tachymetric,1970s,Not listed
+Rolex,Day-Date 36,79995.00,https://www.bobswatches.com/rolex-day-date-36-ref-128345-green-aventurine-dial.html,Automatic,Rose Gold,Diamond,Diamond,2010 - Present,No
+Rolex,Day-Date 36,37495.00,https://www.bobswatches.com/pre-owned-rolex-president-day-date-118389-jubilee-dial.html,Automatic,White Gold,Diamond,Diamond,2000s,Yes
+Rolex,GMT-Master II,13995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-116713-two-tone.html,Automatic,Steel and Gold,Luminous,GMT,2000s,Yes
+Rolex,Air-King,9195.00,https://www.bobswatches.com/pre-owned-rolex-air-king-116900-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
+Rolex,Datejust II,10495.00,https://www.bobswatches.com/rolex-datejust-ii-ref-116334-diamond-dial.html,Automatic,Stainless Steel,Diamond,Fluted,2010 - Present,Yes
+Rolex,Day-Date 36,18495.00,https://www.bobswatches.com/rolex-day-date-36-ref-18239-tridor.html,Automatic,White Gold,Roman,Fluted,1990s,Yes
+Rolex,Day-Date 36,20495.00,https://www.bobswatches.com/rolex-day-date-118239-rhodium-roman-dial.html,Automatic,White Gold,Roman,Fluted,2000s,Yes
+Rolex,GMT-Master II,31995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-116719-18k-white-gold.html,Automatic,White Gold,Luminous,GMT,2010 - Present,Yes
+Rolex,Datejust 31,11495.00,https://www.bobswatches.com/rolex-datejust-31-ref-178344-diamond-dial-and-bezel.html,Automatic,Stainless Steel,Diamond,Diamond,2010 - Present,Yes
+Rolex,GMT-Master II,26495.00,https://www.bobswatches.com/used-rolex-gmt-master-ii-ref-16718-18k-yellow-gold.html,Automatic,Yellow Gold,Luminous,GMT,1990s,Yes
+Rolex,Daytona,48995.00,https://www.bobswatches.com/rolex-daytona-116508-black-dial.html,Automatic,Yellow Gold,Index,Tachymetric,2010 - Present,No
+Rolex,GMT-Master II,42295.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126718-yellow-gold.html,Automatic,Yellow Gold,Luminous,GMT,2010 - Present,Yes
+Rolex,Explorer II,8195.00,https://www.bobswatches.com/rolex-explorer-ii-ref-16570-black-dial.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Oyster Perpetual,3595.00,https://www.bobswatches.com/lady-rolex-oyster-perpetual-76080-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,1990s,Not listed
+Rolex,Milgauss,10495.00,https://www.bobswatches.com/rolex-milgauss-ref-116400-white-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Explorer 40,9195.00,https://www.bobswatches.com/rolex-explorer-40-ref-224270-oyster.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Rolex,GMT-Master,14995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-stainless-steel-oyster.html,Automatic,Stainless Steel,Tritium,GMT,1970s,Yes
+Rolex,Datejust II,10395.00,https://www.bobswatches.com/rolex-datejust-ii-116334-blue-superluminova-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,Yes
+Rolex,Explorer 40,9195.00,https://www.bobswatches.com/rolex-explorer-40-ref-224270-stainless-steel-oyster.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Rolex,Sky-Dweller,42495.00,https://www.bobswatches.com/rolex-sky-dweller-326935-sundust-dial.html,Automatic,Rose Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,GMT-Master,12495.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-steel-pepsi.html,Automatic,Stainless Steel,Tritium,GMT,1960s,Yes
+Rolex,Air-King,5695.00,https://www.bobswatches.com/used-rolex-air-king-5500-black-dial.html,Automatic,Stainless Steel,Index,Smooth,1980s,Yes
+Rolex,Date,4995.00,https://www.bobswatches.com/rolex-date-ref-1500-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,1960s,Yes
+Rolex,OysterDate,4195.00,https://www.bobswatches.com/rolex-oysterdate-ref-6694-stainless-steel.html,Manual,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Date,12495.00,https://www.bobswatches.com/rolex-date-15037-yellow-gold-jubilee.html,Automatic,Yellow Gold,Roman,Fluted,1980s,Yes
+Rolex,Datejust 41,13995.00,https://www.bobswatches.com/rolex-datejust-41-ref-126331-steel-and-18k-everose-gold.html,Automatic,Steel and Rose Gold,Index,Fluted,2010 - Present,No
+Rolex,Datejust 36,7295.00,https://www.bobswatches.com/rolex-datejust-16233-diamond-dial.html,Automatic,Steel and Gold,Diamond,Fluted,1980s,Yes
+Rolex,Datejust 36,7495.00,https://www.bobswatches.com/preowned-rolex-datejust-116234-silver-dial.html,Automatic,Stainless Steel,Index,Fluted,2000s,Yes
+Rolex,Day-Date 36,14995.00,https://www.bobswatches.com/171865-pre-owned-rolex-day-date-1803-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,1970s,Yes
+Rolex,Lady Datejust,8495.00,https://www.bobswatches.com/rolex-datejust-6917-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,1980s,Yes
+Rolex,Daytona,32495.00,https://www.bobswatches.com/rolex-daytona-ref-116509-18k-white-gold.html,Automatic,White Gold,Arabic,Tachymetric,2000s,Yes
+Rolex,Daytona,29495.00,https://www.bobswatches.com/rolex-ceramic-daytona-116500-white-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Rolex,Datejust 36,5995.00,https://www.bobswatches.com/rolex-datejust-16200-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Sky-Dweller,21795.00,https://www.bobswatches.com/pre-owned-rolex-sky-dweller-336933-black-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,No
+Rolex,Sea-Dweller,16795.00,https://www.bobswatches.com/pre-owned-rolex-sea-dweller-126603-ceramic-bezel.html,Automatic,Steel and Gold,Luminous,Timing,2010 - Present,No
+Rolex,Daytona,91995.00,https://www.bobswatches.com/vintage-rolex-daytona-ref-6265-black-dial.html,Not listed,Stainless Steel,Tritium,Tachymetric,1980s,Yes
+Rolex,Day-Date 36,41495.00,https://www.bobswatches.com/rolex-day-date-36-ref-128235-18k-everose-gold.html,Automatic,Rose Gold,Roman,Fluted,2010 - Present,No
+Rolex,Air-King,5495.00,https://www.bobswatches.com/rolex-air-king-ref-5500-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Day-Date 40,91995.00,https://www.bobswatches.com/rolex-day-date-40-228349-white-gold.html,Automatic,White Gold,Diamond,Diamond,2010 - Present,Not listed
+Rolex,Yacht-Master 40,9795.00,https://www.bobswatches.com/rolex-yacht-master-16622-platinum-dial-and-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Sea-Dweller,14195.00,https://www.bobswatches.com/rolex-sea-dweller-136660-black-dial-and-ceramic-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Datejust 31,8995.00,https://www.bobswatches.com/ladies-rolex-datejust-31-ref-178274-stainless-steel.html,Automatic,Stainless Steel,Roman,Fluted,2010 - Present,Yes
+Rolex,Lady Datejust,6995.00,https://www.bobswatches.com/rolex-lady-datejust-179174-white-roman.html,Automatic,Stainless Steel,Roman,Fluted,2000s,Yes
+Rolex,Air-King,12495.00,https://www.bobswatches.com/172447-rolex-air-king-14000-dominos-pizza.html,Automatic,Stainless Steel,Index,Smooth,1990s,Yes
+Rolex,Datejust 31,3995.00,https://www.bobswatches.com/lady-rolex-datejust-6824-stainless-steel-mid-size.html,Automatic,Stainless Steel,Roman,Smooth,1980s,Yes
+Rolex,Submariner,21495.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-1680-yellow-gold.html,Automatic,Yellow Gold,Tritium,Timing,1970s,Yes
+Rolex,Datejust 36,6195.00,https://www.bobswatches.com/rolex-datejust-two-tone-16013-champagne-dial.html,Automatic,Steel and Gold,Index,Fluted,1970s,Yes
+Rolex,Datejust 36,6395.00,https://www.bobswatches.com/used-rolex-datejust-16233-champagne-dial-two-tone.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,Daytona,29995.00,https://www.bobswatches.com/rolex-cosmograph-daytona-116500-ceramic-model.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Rolex,Explorer 36,13495.00,https://www.bobswatches.com/vintage-rolex-explorer-ref-1016-steel-oyster.html,Automatic,Stainless Steel,Arabic,Smooth,1960s,Yes
+Rolex,Datejust 31,14795.00,https://www.bobswatches.com/rolex-datejust-ref-278271-stainless-steel-and-18k-everose-gold.html,Automatic,Steel and Rose Gold,Roman,Fluted,2010 - Present,No
+Rolex,Day-Date 36,23495.00,https://www.bobswatches.com/rolex-president-day-date-118238-18k-gold.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Milgauss,9995.00,https://www.bobswatches.com/pre-owned-rolex-milgauss-ref-116400-black-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Day-Date II,29495.00,https://www.bobswatches.com/rolex-president-day-date-ii-ref-218239-black-dial.html,Automatic,White Gold,Roman,Fluted,2000s,Not listed
+Rolex,Cellini,12995.00,https://www.bobswatches.com/171437-pre-owned-rolex-cellini-prince-5440.html,Automatic,Yellow Gold,Roman,Smooth,2000s,Yes
+Rolex,Explorer,7595.00,https://www.bobswatches.com/rolex-explorer-214270-black-mk-i-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
+Rolex,Datejust 36,12995.00,https://www.bobswatches.com/rolex-datejust-116201-floral-motif-dial.html,Automatic,Steel and Rose Gold,Arabic,Smooth,2010 - Present,Yes
+Rolex,Datejust 36,6995.00,https://www.bobswatches.com/rolex-datejust-ref-16013-silver-dial.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Date,4995.00,https://www.bobswatches.com/rolex-date-ref-15200-stainless-steel.html,Automatic,Stainless Steel,Roman,Smooth,2000s,Yes
+Rolex,GMT-Master,16995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-ref-1675-stainless-steel-pepsi.html,Automatic,Stainless Steel,Tritium,GMT,1960s,Yes
+Rolex,Submariner,9995.00,https://www.bobswatches.com/rolex-submariner-ref-16610-steel.html,Automatic,Stainless Steel,Tritium,Timing,1990s,Yes
+Rolex,Date,5495.00,https://www.bobswatches.com/vintage-rolex-date-1505-champagne-dial.html,Automatic,Steel and Gold,Index,Engine Turned,1970s,Not listed
+Rolex,Day-Date 36,31995.00,https://www.bobswatches.com/rolex-day-date-118206-silver-diamond-dial.html,Automatic,Platinum,Diamond,Smooth,2000s,Yes
+Rolex,Datejust 36,7595.00,https://www.bobswatches.com/pre-owned-rolex-datejust-ref-126200-black-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Rolex,Daytona,39995.00,https://www.bobswatches.com/vintage-rolex-pre-daytona-oyster-chronograph-6034.html,Manual,Stainless Steel,Index,Smooth,1950s,Yes
+Rolex,Sky-Dweller,18495.00,https://www.bobswatches.com/rolex-sky-dweller-326933-black-dial-two-tone.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,Not listed
+Rolex,Pearlmaster,38995.00,https://www.bobswatches.com/rolex-datejust-pearlmaster-34-ref-81298-18k-yellow-gold.html,Automatic,Yellow Gold,Roman,Diamond,2010 - Present,Yes
+Rolex,Day-Date 36,37495.00,https://www.bobswatches.com/rolex-day-date-118239-meteorite-diamond-dial.html,Automatic,White Gold,Diamond,Fluted,2000s,Yes
+Rolex,Daytona,34995.00,https://www.bobswatches.com/rolex-daytona-16528-18k-yellow-gold-zenith-movement.html,Automatic,Yellow Gold,Index,Tachymetric,1990s,Yes
+Rolex,Yacht-Master 37,13995.00,https://www.bobswatches.com/rolex-yacht-master-268621-stainless-steel-and-18k-everose-gold.html,Automatic,Steel and Rose Gold,Luminous,Timing,2010 - Present,Not listed
+Rolex,Submariner,32995.00,https://www.bobswatches.com/rolex-submariner-ref-116618-18k-yellow-gold.html,Automatic,Yellow Gold,Luminous,Timing,2010 - Present,Yes
+Rolex,Day-Date 36,29995.00,https://www.bobswatches.com/rolex-day-date-president-118206-silver-dial.html,Automatic,Platinum,Roman,Smooth,2000s,Yes
+Rolex,Submariner,20995.00,https://www.bobswatches.com/vintage-rolex-5512-submariner-no-date.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Submariner,36995.00,https://www.bobswatches.com/rolex-vintage-submariner-5512.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Not listed
+Rolex,Submariner,14995.00,https://www.bobswatches.com/vintage-1984-rolex-submariner-5513.html,Automatic,Stainless Steel,Tritium,Timing,1980s,Yes
+Rolex,Submariner,18995.00,https://www.bobswatches.com/rolex-vintage-submariner-1680-red-sub.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,GMT-Master II,38995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126719-blue-dial.html,Automatic,White Gold,Luminous,GMT,2010 - Present,No
+Rolex,Sky-Dweller,37995.00,https://www.bobswatches.com/rolex-sky-dweller-326235-18k-everose-gold.html,Automatic,Rose Gold,Index,Fluted,2010 - Present,No
+Rolex,Milgauss,22995.00,https://www.bobswatches.com/vintage-rolex-milgauss-1019-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Day-Date 36,20995.00,https://www.bobswatches.com/rolex-day-date-ref-118209-white-gold.html,Automatic,White Gold,Diamond,Smooth,2000s,Yes
+Rolex,GMT-Master,31995.00,https://www.bobswatches.com/vintage-rolex-gmt-master-1675-nipple-dial.html,Automatic,Yellow Gold,Tritium,GMT,1970s,Yes
+Rolex,Sea-Dweller,36995.00,https://www.bobswatches.com/vintage-rolex-sea-dweller-1665-double-red-sea-dweller.html,Automatic,Stainless Steel,Not listed,Timing,1970s,Yes
+Rolex,GMT-Master,20495.00,https://www.bobswatches.com/vintage-rolex-pepsi-gmt-master-1675.html,Automatic,Stainless Steel,Not listed,GMT,1960s,Yes
+Rolex,Submariner,21995.00,https://www.bobswatches.com/vintage-rolex-red-submariner-1680-feet-first-dial.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,GMT-Master,22495.00,https://www.bobswatches.com/vintage-rolex-gmt-master-1675-glossy-gilt-dial.html,Automatic,Stainless Steel,Tritium,GMT,1960s,Yes
+Rolex,Day-Date 36,24495.00,https://www.bobswatches.com/rolex-day-date-118205-18k-rose-gold.html,Automatic,Rose Gold,Roman,Smooth,2000s,Yes
+Rolex,Submariner,13995.00,https://www.bobswatches.com/rolex-submariner-16610v-green-kermit-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Sky-Dweller,21495.00,https://www.bobswatches.com/rolex-sky-dweller-336933-black-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,No
+Rolex,Submariner,13295.00,https://www.bobswatches.com/mens-vintage-rolex-submariner-stainless-steel-1680.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Day-Date II,49995.00,https://www.bobswatches.com/rolex-day-date-ii-ref-218206-platinum.html,Automatic,Platinum,Arabic,Smooth,2010 - Present,Not listed
+Rolex,Submariner,29995.00,https://www.bobswatches.com/pre-owned-rolex-submariner-16808.html,Automatic,Yellow Gold,Serti,Timing,1980s,Not listed
+Rolex,Submariner,26995.00,https://www.bobswatches.com/vintage-rolex-submariner-5513-stainless-steel.html,Automatic,Stainless Steel,Not listed,Timing,1960s,Yes
+Rolex,Day-Date II,29495.00,https://www.bobswatches.com/rolex-day-date-ii-ref-218239-18k-white-gold.html,Automatic,White Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,Day-Date II,29495.00,https://www.bobswatches.com/rolex-day-date-ii-ref-218239-white-gold.html,Automatic,White Gold,Roman,Fluted,2000s,Yes
+Rolex,Day-Date II,40995.00,https://www.bobswatches.com/rolex-day-date-ii-ref-218235-everose-gold.html,Automatic,Rose Gold,Roman,Fluted,2010 - Present,Yes
+Rolex,Datejust 41,14295.00,https://www.bobswatches.com/pre-owned-rolex-datejust-41-ref-126333-silver-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,No
+Rolex,Submariner,19495.00,https://www.bobswatches.com/rolex-submariner-116610lv-steel-hulk.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Day-Date 36,24495.00,https://www.bobswatches.com/rolex-day-date-ref-118205-everose-gold-oyster.html,Automatic,Rose Gold,Arabic,Smooth,2000s,Yes
+Rolex,Date,3495.00,https://www.bobswatches.com/used-rolex-date-6916-stainless-steel.html,Automatic,Stainless Steel,Index,Fluted,1970s,Yes
+Rolex,Submariner,13495.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-5513-steel-oyster.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Explorer,7695.00,https://www.bobswatches.com/rolex-black-explorer-214270-39mm.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
+Rolex,Submariner,18995.00,https://www.bobswatches.com/vintage-rolex-submariner-5512-stainless-steel.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Yes
+Rolex,GMT-Master II,32995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-116718-black-dial.html,Automatic,Yellow Gold,Luminous,GMT,2010 - Present,Yes
+Rolex,Air-King,5995.00,https://www.bobswatches.com/rolex-airking-14000-black-dial.html,Automatic,Stainless Steel,Index,Smooth,1990s,Yes
+Rolex,Day-Date 36,33795.00,https://www.bobswatches.com/rolex-day-date-ref-118206-platinum.html,Automatic,Platinum,Index,Smooth,2000s,Yes
+Rolex,Submariner,11495.00,https://www.bobswatches.com/rolex-submariner-116610-black.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Submariner,15995.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-5513-stainless-steel.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Yes
+Rolex,Sea-Dweller,8995.00,https://www.bobswatches.com/rolex-sea-dweller-16660-black.html,Automatic,Stainless Steel,Luminous,Timing,1980s,Yes
+Rolex,Oyster Perpetual 34,5495.00,https://www.bobswatches.com/vintage-rolex-oyster-perpetual-6565-stainless-steel.html,Manual,Stainless Steel,Arabic,Engine Turned,1950s,Yes
+Rolex,Date,4195.00,https://www.bobswatches.com/ladies-rolex-date-ref-79190-stainless-steel.html,Automatic,Stainless Steel,Index,Engine Turned,2000s,Yes
+Rolex,Yacht-Master,6495.00,https://www.bobswatches.com/rolex-yacht-master-ref-169622-platinum-dial-and-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Lady Datejust,7295.00,https://www.bobswatches.com/lady-rolex-datejust-179174-stainless-steel.html,Automatic,Stainless Steel,Diamond,Fluted,2000s,Yes
+Rolex,Submariner,10495.00,https://www.bobswatches.com/vintage-rolex-submariner-reference-1680.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Oyster Perpetual 34,5995.00,https://www.bobswatches.com/pre-owned-rolex-oyster-perpetual-14233-champagne-dial.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,GMT-Master II,12995.00,https://www.bobswatches.com/rolex-gmt-master-ii-16710-black-and-red-bezel.html,Automatic,Stainless Steel,Tritium,GMT,1990s,Yes
+Rolex,Day-Date 36,25495.00,https://www.bobswatches.com/rolex-day-date-118205-diamond-dial.html,Automatic,Rose Gold,Diamond,Smooth,2000s,Yes
+Rolex,Explorer 36,10295.00,https://www.bobswatches.com/rolex-explorer-124273-black-arabic-dial.html,Automatic,Steel and Gold,Arabic,Smooth,2010 - Present,Yes
+Rolex,Oyster Perpetual,3595.00,https://www.bobswatches.com/rolex-oyster-perpetual-76080-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,1990s,Yes
+Rolex,Datejust 36,13995.00,https://www.bobswatches.com/rolex-datejust-ref-116139-white-dial.html,Automatic,White Gold,Roman,Fluted,2000s,Yes
+Rolex,Lady Datejust,4695.00,https://www.bobswatches.com/rolex-two-tone-ladies-datejust-69173-champagne.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Lady Datejust,19495.00,https://www.bobswatches.com/ladies-rolex-datejust-179159-president-bracelet.html,Automatic,White Gold,Diamond,Diamond,2000s,Yes
+Rolex,Daytona,25995.00,https://www.bobswatches.com/rolex-daytona-116500-black-ceramic-model.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,No
+Rolex,Yacht-Master,6695.00,https://www.bobswatches.com/lady-rolex-yacht-master-169622-platinum-dial-and-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Lady Datejust,5895.00,https://www.bobswatches.com/ladies-rolex-datejust-179160-white-dial.html,Automatic,Stainless Steel,Roman,Smooth,2000s,Yes
+Rolex,Submariner,12295.00,https://www.bobswatches.com/rolex-submariner-16613-black-dial.html,Automatic,Steel and Gold,Luminous,Timing,1990s,Yes
+Rolex,Datejust 36,6295.00,https://www.bobswatches.com/rolex-datejust-ref-16200-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Datejust 31,19995.00,https://www.bobswatches.com/pre-owned-ladies-rolex-datejust-278384-stainless-steel.html,Automatic,Stainless Steel,Diamond,Diamond,2010 - Present,Yes
+Rolex,Submariner,11795.00,https://www.bobswatches.com/rolex-submariner-ref-16610t-black-dial.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Submariner,10595.00,https://www.bobswatches.com/pre-owned-rolex-submariner-16610t-no-holes-case.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Datejust 36,15995.00,https://www.bobswatches.com/rolex-datejust-36-ref-116244-black-diamond-dial.html,Automatic,Stainless Steel,Diamond,Diamond,2010 - Present,Yes
+Rolex,Milgauss,10595.00,https://www.bobswatches.com/rolex-milgauss-116400-white-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Daytona,20495.00,https://www.bobswatches.com/rolex-cosmograph-daytona-116503-champagne-dial.html,Automatic,Steel and Gold,Index,Tachymetric,2010 - Present,Yes
+Rolex,Yacht-Master 40,12495.00,https://www.bobswatches.com/rolex-yacht-master-ref-116622-blue-dial.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Date,4195.00,https://www.bobswatches.com/ladies-rolex-date-ref-79240-white-dial.html,Automatic,Stainless Steel,Roman,Engine Turned,2000s,Yes
+Rolex,Datejust 36,7495.00,https://www.bobswatches.com/pre-owned-rolex-datejust-126200-black-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Rolex,Submariner,10995.00,https://www.bobswatches.com/rolex-submariner-16610t-black-bezel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Submariner,10595.00,https://www.bobswatches.com/used-rolex-submariner-16610t-black-dial.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Date,5495.00,https://www.bobswatches.com/rolex-date-15200-white-dial.html,Automatic,Stainless Steel,Roman,Smooth,1990s,Yes
+Rolex,Yacht-Master,31495.00,https://www.bobswatches.com/pre-owned-rolex-yacht-master-126655-18k-everose-gold.html,Automatic,Rose Gold,Luminous,Timing,2010 - Present,No
+Rolex,Cellini,11495.00,https://www.bobswatches.com/rolex-cellini-ref-5442-18k-everose-gold.html,Manual,Rose Gold,Arabic,Smooth,2000s,Yes
+Rolex,GMT-Master II,20995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-126710-pepsi-jubilee-band.html,Automatic,Stainless Steel,Luminous,GMT,2010 - Present,No
+Rolex,Daytona,41495.00,https://www.bobswatches.com/pre-owned-rolex-daytona-116519-diamond-dial.html,Automatic,White Gold,Diamond,Tachymetric,2010 - Present,No
+Rolex,Oyster Perpetual 26,5895.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-176210-roman-dial.html,Automatic,Stainless Steel,Roman,Engine Turned,2000s,Yes
+Rolex,Lady Datejust,7295.00,https://www.bobswatches.com/rolex-lady-datejust-279160-dark-grey-roman-dial.html,Automatic,Stainless Steel,Roman,Smooth,2010 - Present,No
+Rolex,Lady Datejust,6595.00,https://www.bobswatches.com/ladies-rolex-datejust-179174-white-roman-dial.html,Automatic,Stainless Steel,Roman,Fluted,2000s,Yes
+Rolex,Date,4495.00,https://www.bobswatches.com/ladies-rolex-date-79160-silver-tapestry-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Oyster Perpetual 26,4395.00,https://www.bobswatches.com/ladies-rolex-oyster-perpetual-76030-silver-dial.html,Automatic,Stainless Steel,Index,Engine Turned,2000s,Yes
+Rolex,Explorer 36,13595.00,https://www.bobswatches.com/vintage-rolex-explorer-ref-1016-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,1970s,Yes
+Rolex,Submariner,11995.00,https://www.bobswatches.com/rolex-submariner-16613-two-tone-bluesy.html,Automatic,Steel and Gold,Tritium,Timing,1990s,Yes
+Rolex,Date,3495.00,https://www.bobswatches.com/ladies-rolex-date-ref-6916-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,1970s,Yes
+Rolex,Yacht-Master 40,23495.00,https://www.bobswatches.com/rolex-yacht-master-ref-16628-white-dial.html,Automatic,Yellow Gold,Tritium,Timing,1990s,Yes
+Rolex,Date,4495.00,https://www.bobswatches.com/lady-rolex-date-79160-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Lady Datejust,5995.00,https://www.bobswatches.com/ladies-rolex-datejust-79174-roman.html,Automatic,Stainless Steel,Roman,Fluted,1990s,Yes
+Rolex,Yacht-Master 37,13995.00,https://www.bobswatches.com/used-rolex-yacht-master-268621.html,Automatic,Steel and Rose Gold,Luminous,Timing,2010 - Present,No
+Rolex,Oyster Perpetual 31,7595.00,https://www.bobswatches.com/pre-owned-rolex-oyster-perpetual-277200-silver-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Rolex,Day-Date 36,16995.00,https://www.bobswatches.com/rolex-day-date-ref-18038-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,1970s,Yes
+Rolex,Submariner,14595.00,https://www.bobswatches.com/mens-rolex-submariner-126610-black-dial.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Submariner,13995.00,https://www.bobswatches.com/pre-owned-rolex-40mm-anniversary-submariner-16610v.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Submariner,31995.00,https://www.bobswatches.com/rolex-submariner-126619-18k-white-gold.html,Automatic,White Gold,Luminous,Timing,2010 - Present,No
+Rolex,Submariner,11995.00,https://www.bobswatches.com/vintage-rolex-submariner-ref-5513-stainless-steel-oyster.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Yes
+Rolex,Submariner,12495.00,https://www.bobswatches.com/vintage-rolex-white-submariner-1680-stainless-steel.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Day-Date 36,23495.00,https://www.bobswatches.com/rolex-day-date-ref-118238-silver-dial.html,Automatic,Yellow Gold,Index,Fluted,2000s,Yes
+Rolex,Datejust 36,7195.00,https://www.bobswatches.com/pre-owned-rolex-datejust-16264.html,Automatic,Stainless Steel,Index,Turn-O-Graph,2000s,Yes
+Rolex,Lady Datejust,4195.00,https://www.bobswatches.com/rolex-ladies-datejust-79160-silver-index-dial.html,Automatic,Stainless Steel,Index,Smooth,2000s,Yes
+Rolex,Daytona,27995.00,https://www.bobswatches.com/pre-owned-rolex-cosmograph-daytona-126503-black-dial.html,Automatic,Steel and Gold,Index,Tachymetric,2010 - Present,No
+Rolex,Yacht-Master,6495.00,https://www.bobswatches.com/ladies-rolex-yacht-master-69623-slate-dial.html,Automatic,Steel and Gold,Luminous,Timing,1990s,Yes
+Rolex,Submariner,11795.00,https://www.bobswatches.com/pre-owned-rolex-submariner-114060-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Sky-Dweller,37295.00,https://www.bobswatches.com/rolex-sky-dweller-326238-champagne-dial.html,Automatic,Yellow Gold,Index,Fluted,2010 - Present,Not listed
+Rolex,Oyster Perpetual 41,9495.00,https://www.bobswatches.com/rolex-oyster-perpetual-124300-silver.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Submariner,10595.00,https://www.bobswatches.com/pre-owned-rolex-submariner-16610-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Submariner,13295.00,https://www.bobswatches.com/vintage-1979-rolex-submariner-1680-stainless.html,Automatic,Stainless Steel,Tritium,Timing,1970s,Yes
+Rolex,Submariner,9595.00,https://www.bobswatches.com/rolex-submariner-ref-14060-black-no-date-dial.html,Automatic,Stainless Steel,Luminous,Timing,1990s,Yes
+Rolex,Datejust 36,6395.00,https://www.bobswatches.com/rolex-datejust-16233-champagne-dial.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,Explorer II,8295.00,https://www.bobswatches.com/rolex-explorer-ii-ref-16570-stainless-steel.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Submariner,12295.00,https://www.bobswatches.com/rolex-submariner-16613-two-tone-blue.html,Automatic,Steel and Gold,Tritium,Timing,1990s,Yes
+Rolex,Oyster Perpetual 39,7995.00,https://www.bobswatches.com/rolex-oyster-perpetual-114300-blue-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Submariner,11495.00,https://www.bobswatches.com/rolex-submariner-ref-116610-black-dial.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Datejust 36,6895.00,https://www.bobswatches.com/used-rolex-datejust-jubilee-16233.html,Automatic,Steel and Gold,Index,Fluted,1990s,Yes
+Rolex,Submariner,16495.00,https://www.bobswatches.com/rolex-submariner-5512-stainless-steel.html,Automatic,Stainless Steel,Tritium,Timing,1960s,Yes
+Rolex,Submariner,11595.00,https://www.bobswatches.com/rolex-submariner-16803-blue.html,Automatic,Steel and Gold,Luminous,Timing,1980s,Yes
+Rolex,Datejust 36,8495.00,https://www.bobswatches.com/rolex-datejust-thunderbird-116264-black-dial.html,Automatic,Stainless Steel,Index,Turn-O-Graph,2000s,Yes
+Rolex,Datejust 36,5995.00,https://www.bobswatches.com/rolex-datejust-16014-silver-index-dial.html,Automatic,Stainless Steel,Index,Fluted,1970s,Yes
+Rolex,Submariner,14795.00,https://www.bobswatches.com/rolex-submariner-date-126610-oystersteel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Air-King,8995.00,https://www.bobswatches.com/rolex-air-king-126900-stainless-steel-oyster.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Rolex,Lady Datejust,7195.00,https://www.bobswatches.com/ladies-rolex-datejust-279160-steel-oyster.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Lady Datejust,8295.00,https://www.bobswatches.com/ladies-rolex-datejust-279174-stainless-steel.html,Automatic,Stainless Steel,Roman,Fluted,2010 - Present,Not listed
+Rolex,Sea-Dweller,8995.00,https://www.bobswatches.com/rolex-sea-dweller-16660-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,1980s,Yes
+Rolex,Submariner,12295.00,https://www.bobswatches.com/two-tone-rolex-submariner-black-16613.html,Automatic,Steel and Gold,Tritium,Timing,1990s,Yes
+Rolex,Datejust II,8195.00,https://www.bobswatches.com/pre-owned-rolex-datejust-ii-116300-black-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Submariner,25995.00,https://www.bobswatches.com/used-rolex-submariner-ref-16618-18k-yellow-gold.html,Automatic,Yellow Gold,Tritium,Timing,1990s,Yes
+Rolex,Lady Datejust,4295.00,https://www.bobswatches.com/ladies-26mm-rolex-datejust-69173-champagne.html,Automatic,Steel and Gold,Index,Fluted,1980s,Yes
+Rolex,Explorer II,7795.00,https://www.bobswatches.com/explorer-ii-rolex-16570-black.html,Automatic,Stainless Steel,Luminous,GMT,1990s,Yes
+Rolex,Submariner,11695.00,https://www.bobswatches.com/rolex-16610-submariner-steel.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,Yacht-Master 40,13695.00,https://www.bobswatches.com/rolex-yacht-master-116621-black-dial.html,Automatic,Steel and Rose Gold,Luminous,Timing,2010 - Present,Yes
+Rolex,Sky-Dweller,19495.00,https://www.bobswatches.com/rolex-sky-dweller-336934-oyster.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,No
+Rolex,GMT-Master II,12195.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-16710-red-and-black-coke.html,Automatic,Stainless Steel,Tritium,GMT,1990s,Yes
+Rolex,Sky-Dweller,18495.00,https://www.bobswatches.com/rolex-sky-dweller-326933-white-dial.html,Automatic,Steel and Gold,Index,Fluted,2010 - Present,No
+Rolex,Day-Date 36,14995.00,https://www.bobswatches.com/rolex-day-date-president-1803.html,Automatic,Yellow Gold,Index,Fluted,1970s,Not listed
+Rolex,Submariner,14495.00,https://www.bobswatches.com/rolex-submariner-date-126610lv-green-ceramic.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,GMT-Master II,12195.00,https://www.bobswatches.com/used-rolex-gmt-master-ii-ref-16710-red-and-black-coke.html,Automatic,Stainless Steel,Luminous,GMT,2000s,Yes
+Rolex,Daytona,14295.00,https://www.bobswatches.com/rolex-daytona-16523-zenith-movement.html,Automatic,Steel and Gold,Index,Tachymetric,1990s,Yes
+Rolex,GMT-Master,10495.00,https://www.bobswatches.com/vintage-rolex-gmt-master-1675-steel-and-yellow-gold.html,Automatic,Steel and Gold,Tritium,GMT,1970s,Yes
+Rolex,Air-King,9295.00,https://www.bobswatches.com/rolex-air-king-126900-smooth-bezel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Rolex,Day-Date 36,18995.00,https://www.bobswatches.com/rolex-president-gold-day-date-18238-diamond-dial.html,Automatic,Yellow Gold,Diamond,Fluted,1990s,Yes
+Rolex,Yacht-Master 40,13995.00,https://www.bobswatches.com/rolex-yacht-master-126622-blue.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Submariner,12595.00,https://www.bobswatches.com/rolex-submariner-16613-black-dial-two-tone.html,Automatic,Steel and Gold,Luminous,Timing,2000s,Yes
+Rolex,Oyster Perpetual 34,8295.00,https://www.bobswatches.com/rolex-oyster-perpetual-124200-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Rolex,Submariner,11995.00,https://www.bobswatches.com/rolex-submariner-114060-ceramic.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Rolex,Day-Date 36,38995.00,https://www.bobswatches.com/rolex-day-date-128238-18k-yellow-gold.html,Automatic,Yellow Gold,Index,Fluted,2010 - Present,No
+Rolex,Datejust 41,14995.00,https://www.bobswatches.com/rolex-datejust-41-ref-126301-everose.html,Automatic,Steel and Rose Gold,Index,Smooth,2010 - Present,No
+Rolex,Submariner,13695.00,https://www.bobswatches.com/used-rolex-submariner-116613-blue-ceramic-bezel.html,Automatic,Steel and Gold,Luminous,Timing,2010 - Present,Yes
+Rolex,GMT-Master,11995.00,https://www.bobswatches.com/rolex-gmt-master-ref-16700-black-dial.html,Automatic,Stainless Steel,Luminous,GMT,1990s,Yes
+Rolex,Date,4995.00,https://www.bobswatches.com/pre-owned-rolex-date-15210-silver-dial.html,Automatic,Stainless Steel,Index,Engine Turned,1990s,Not listed
+Rolex,GMT-Master II,12995.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-16760-coke-fat-lady.html,Automatic,Stainless Steel,Tritium,GMT,1980s,Yes
+Rolex,Explorer 36,8695.00,https://www.bobswatches.com/pre-owned-rolex-explorer-124270-black-arabic-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Rolex,Sea-Dweller,13995.00,https://www.bobswatches.com/pre-owned-rolex-sea-dweller-136660-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,No
+Rolex,Lady Datejust,6995.00,https://www.bobswatches.com/lady-rolex-datejust-179174-black-luminescent-dial.html,Automatic,Stainless Steel,Index,Fluted,2010 - Present,Yes
+Rolex,Air-King,5195.00,https://www.bobswatches.com/rolex-air-king-14010-silver-dial.html,Automatic,Stainless Steel,Index,Engine Turned,1990s,Yes
+Rolex,Datejust 31,15495.00,https://www.bobswatches.com/rolex-datejust-31mm-diamond-178384.html,Automatic,Stainless Steel,Roman,Diamond,2010 - Present,Yes
+Rolex,Date,4795.00,https://www.bobswatches.com/rolex-date-1501-silver.html,Automatic,Stainless Steel,Index,Engine Turned,1960s,Yes
+Rolex,Explorer 36,7195.00,https://www.bobswatches.com/rolex-explorer-114270-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
+Rolex,Submariner,10795.00,https://www.bobswatches.com/submariner-rolex-16610-black.html,Automatic,Stainless Steel,Luminous,Timing,2000s,Yes
+Rolex,GMT-Master II,12495.00,https://www.bobswatches.com/rolex-gmt-master-ii-ref-16710-stainless-steel-coke.html,Automatic,Stainless Steel,Luminous,GMT,1990s,Yes
 Patek Philippe,Nautilus,139995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
 Patek Philippe,Gondolo,8495.00,https://www.bobswatches.com/patek-philippe/patek-philippe-gondolo-ref-4825-18k-white-gold.html,Quartz,White Gold,Diamond,Diamond,Not listed,Yes
 Patek Philippe,Calatrava,14495.00,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-ref-5115-yellow-gold.html,Manual,Yellow Gold,Roman,Not listed,Not listed,Yes
@@ -52,43 +412,10 @@ Patek Philippe,Neptune,20495.00,https://www.bobswatches.com/patek-philippe/patek
 Patek Philippe,Complications,44995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-5205g-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
 Patek Philippe,Complications,59995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-black-dial.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Yes
 Patek Philippe,Calatrava,149595.00,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-haute-joaillerie-tiffany-and-co-dial.html,Manual,Rose Gold,Index,Diamond,1960s,Yes
-Patek Philippe,Golden Ellipse,9995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-golden-ellipse-ref-3546-yellow-gold.html,Manual,Yellow Gold,Roman,Smooth,Not listed,Yes
 Patek Philippe,Complications,39995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-perpetual-calendar-ref-5040-yellow-gold.html,Automatic,Yellow Gold,Breguet,Smooth,1990s,Yes
 Patek Philippe,Complications,109995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-grand-complications-perpetual-calendar-chronograph-silver-dial.html,Manual,Rose Gold,Index,Smooth,2010 - Present,Yes
 Patek Philippe,Complications,37995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-18k-rose-gold-diamond-bezel.html,Automatic,Rose Gold,Arabic,Diamond,2010 - Present,Yes
 Patek Philippe,Complications,41995.00,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-rose-gold-olive-green-dial.html,Automatic,Rose Gold,Index,Diamond,2010 - Present,No
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-chronograph-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-black-embossed-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-ivory-dial.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-black-dial.html,Automatic,Stainless Steel,Arabic,Smooth,Not listed,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-phillipe-nautilus-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Golden Ellipse,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-ellipse-yellow-gold.html,Manual,Yellow Gold,Index,Smooth,1980s,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-18k-white-gold.html,Automatic,White Gold,Arabic,Smooth,2000s,Not listed
-Patek Philippe,Gondolo,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-gondolo-18k-rose-gold.html,Manual,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/mens-patek-philippe-calatrava-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,1990s,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-3919.html,Manual,Yellow Gold,Roman,Not listed,Not listed,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-perpetual-calendar-18k-yellow-gold.html,Automatic,Yellow Gold,Arabic,Smooth,1990s,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/pre-owned-patek-philippe-annual-calendar.html,Automatic,Yellow Gold,Roman,Smooth,2000s,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-phillipe-nautilus-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-annual-calendar-moon-phases.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-flyback-chronograph-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-chronograph-date-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/ladies-patek-philippe-complications-annual-calendar.html,Automatic,White Gold,Arabic,Diamond,2010 - Present,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-weekly-calendar.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-blue-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/used-patek-philippe-calatrava-18k-yellow-gold.html,Automatic,Yellow Gold,Index,Smooth,1980s,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-silver-dial.html,Automatic,White Gold,Index,Smooth,2000s,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-platinum.html,Automatic,Platinum,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Complications,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-complications-18k-rose-gold.html,Automatic,Rose Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-white-gold.html,Automatic,White Gold,Index,Smooth,2010 - Present,Not listed
-Patek Philippe,Aquanaut,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-aquanaut-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Calatrava,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-calatrava-pilot-travel-time.html,Automatic,Rose Gold,Arabic,Smooth,2010 - Present,Not listed
-Patek Philippe,Nautilus,Not listed,https://www.bobswatches.com/patek-philippe/patek-philippe-nautilus-chronograph-stainless-steel.html,Automatic,Stainless Steel,Index,Smooth,2000s,Not listed
 Audemars Piguet,Jules Audemars,19995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-jules-audemars-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2000s,Yes
 Audemars Piguet,Royal Oak Offshore,24995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-brown-dial.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
 Audemars Piguet,Royal Oak Offshore,25995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-diver-grey-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
@@ -100,28 +427,7 @@ Audemars Piguet,Royal Oak,35995.00,https://www.bobswatches.com/audemars-piguet/a
 Audemars Piguet,Royal Oak Offshore,18495.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-48-shaquille-oneal-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Yes
 Audemars Piguet,Royal Oak Offshore,23495.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-la-boutique-special-edition.html,Automatic,Stainless Steel,Diamond,Diamond,2000s,Yes
 Audemars Piguet,Jules Audemars,29995.00,https://www.bobswatches.com/audemars-piguet/audemars-piguet-jules-audemars-equation-of-time-18k-white-gold.html,Automatic,White Gold,Roman,Not listed,2000s,Not listed
-Audemars Piguet,Royal Oak Offshore Chronograph,Not listed,https://www.bobswatches.com/collections/audemars-piguet-royal-oak-offshore-chronograph-blue.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-rose-gold-and-tantalum.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-selfwinding-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Edward Piguet,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-edward-piguet-18k-rose-gold.html,Manual,Rose Gold,Roman,Smooth,2010 - Present,Not listed
-Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore-titanium.html,Automatic,Titanium,Arabic,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-blue-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-diamond-bezel.html,Automatic,Stainless Steel,Index,Diamond,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-silver-dial.html,Automatic,Stainless Steel,Index,Not listed,2000s,Not listed
-Audemars Piguet,Code 11.59,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-code-1159-burgundy-dial.html,Automatic,White Gold,Arabic,Timing,Not listed,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/mens-audemars-piguet-royal-oak-offshore-titanium.html,Automatic,Titanium,Index,Not listed,1990s,Not listed
-Audemars Piguet,Millenary,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-millenary-4101-stainless-steel.html,Automatic,Stainless Steel,Roman,Smooth,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/pre-owned-audemars-piguet-royal-oak-offshore.html,Automatic,Stainless Steel,Arabic,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-chronograph-stainless-steel.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-chronograph-18k-rose-gold.html,Automatic,Rose Gold,Arabic,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-18k-rose-gold.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grey-ruthenium-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak Offshore,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-offshore-light-brown-mega-tapisserie-dial.html,Automatic,Stainless Steel,Index,Ceramic,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-jumbo-extra-thin.html,Automatic,Rose Gold,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Royal Oak,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-royal-oak-grande-tapisserie-dial.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,Not listed
-Audemars Piguet,Jules Audemars,Not listed,https://www.bobswatches.com/audemars-piguet/audemars-piguet-ultra-thin-18k-yellow-gold.html,Manual,Yellow Gold,Roman,Not listed,1980s,Not listed
+Breitling,Endurance Pro,2495.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-breitlight-black-dial-yellow-strap.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,Not listed
 Breitling,Superocean,2695.00,https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-orange-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
 Breitling,Navitimer,3695.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-36-mint-green-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
 Breitling,Classic AVI,4195.00,https://www.bobswatches.com/breitling/breitling-classic-avi-chronograph-42-mosquito-black-dial.html,Automatic,Stainless Steel,Arabic,12-hour,2010 - Present,No
@@ -167,3 +473,146 @@ Breitling,Super Avenger,7295.00,https://www.bobswatches.com/breitling/breitling-
 Breitling,Superocean,2595.00,https://www.bobswatches.com/breitling/breitling-superocean-ii-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
 Breitling,Bentley,4395.00,https://www.bobswatches.com/breitling/breitling-bentley-gt-ii-stainless-steel-white-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
 Breitling,Chronomat,3995.00,https://www.bobswatches.com/breitling/breitling-chronomat-38-sleekt-stainless-steel.html,Automatic,Stainless Steel,Diamond,Smooth,2010 - Present,Yes
+Breitling,Premier,7495.00,https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b15-duograph-42-stainless-steel.html,Manual,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Breitling,Superocean,4595.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-46-black-index-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Navitimer,6795.00,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-automatic-35-steel-and-18k-red-gold.html,Automatic,Steel and Rose Gold,Diamond,Slide Rule,2010 - Present,Yes
+Breitling,Superocean,4295.00,https://www.bobswatches.com/breitling/breitling-superocean-chronograph-44-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Navitimer,6495.00,https://www.bobswatches.com/breitling/breitling-navitimer-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Navitimer,4495.00,https://www.bobswatches.com/breitling/breitling-navitimer-chronograph-41-blue-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Classic AVI,5795.00,https://www.bobswatches.com/breitling/breitling-classic-avi-chronograph-42-curtiss-warhawk-green-dial.html,Automatic,Stainless Steel,Arabic,GMT,2010 - Present,No
+Breitling,Superocean Heritage,4795.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-automatic-46-green-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Avenger,3295.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-43-black-index-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Superocean 44,3895.00,https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-automatic-44-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Montbrillant,3995.00,https://www.bobswatches.com/breitling/breitling-navitimer-montbrillant-datora-ref-a21330-stainless-steel.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Superocean Heritage,3595.00,https://www.bobswatches.com/breitling/breitling-superocean-ref-ab2010-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Not listed
+Breitling,Chronomat,3995.00,https://www.bobswatches.com/breitling/breitling-chronomat-automatic-36-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Superocean Heritage,4595.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-automatic-44-black-dial.html,Automatic,Steel and Rose Gold,Index,Ceramic,2010 - Present,No
+Breitling,Avenger,3595.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-gmt-45mm-steel.html,Automatic,Stainless Steel,Index,GMT,2010 - Present,Not listed
+Breitling,Avenger B01,5795.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-42-green-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,7495.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-44-night-mission-dust-devils-ceramic.html,Automatic,Ceramic,Index,Timing,2010 - Present,No
+Breitling,Super Avenger B01,7195.00,https://www.bobswatches.com/breitling/breitling-super-avenger-b01-chronograph-46-blue-dial.html,Automatic,Titanium,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,7495.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-42-night-mission-us-naval-academy-ceramic.html,Automatic,Ceramic,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,6195.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-42-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,6195.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-42-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Navitimer B01,6895.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-chronograph-46-blue-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Aviator,5495.00,https://www.bobswatches.com/breitling/breitling-aviator-8-b01-grey-dial.html,Automatic,Stainless Steel,Arabic,Not listed,2010 - Present,Yes
+Breitling,Chronomat,6995.00,https://www.bobswatches.com/breitling/breitling-chronomat-b01-42-green-dial.html,Automatic,Steel and Rose Gold,Index,Timing,2010 - Present,No
+Breitling,Superocean Heritage,4195.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-blue-index-dial.html,Automatic,Stainless Steel,Index,Ceramic,2010 - Present,No
+Breitling,Superocean 44,3795.00,https://www.bobswatches.com/breitling/breitling-superocean-automatic-44-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Endurance Pro,2495.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-breitlight-yellow-strap.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,Not listed
+Breitling,Avenger,4295.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Endurance Pro,2795.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-stanford-university-breitlight.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,No
+Breitling,Avenger B01,7495.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-44-night-mission-bloodhounds-ceramic.html,Automatic,Ceramic,Index,Timing,2010 - Present,No
+Breitling,Endurance Pro,2795.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-breitlight-university-of-michigan.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,Not listed
+Breitling,Premier,6695.00,https://www.bobswatches.com/breitling/breitling-premier-b09-chronograph-40-green-dial.html,Manual,Stainless Steel,Arabic,Tachymetric,2010 - Present,Not listed
+Breitling,Chronomat,2995.00,https://www.bobswatches.com/breitling/breitling-chronomat-evolution-black.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Avenger,5095.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-gmt-44-night-mission-ceramic.html,Automatic,Ceramic,Arabic,Timing,2010 - Present,No
+Breitling,Avenger B01,7195.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-42-night-mission-ceramic.html,Automatic,Ceramic,Arabic,Timing,2010 - Present,No
+Breitling,Super AVI,5995.00,https://www.bobswatches.com/breitling/breitling-super-avi-b04-chronograph-gmt-46-mosquito-night-fighter.html,Automatic,Stainless Steel,Arabic,Timing,Not listed,No
+Breitling,Navitimer B01,7495.00,https://www.bobswatches.com/breitling/breitling-navitimer-1-b01-chronograph-blue-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Endurance Pro,2195.00,https://www.bobswatches.com/breitling/breitling-endurance-pro-44-breitlight-navy-strap.html,Quartz,Breitlight,Arabic,Compass,2010 - Present,No
+Breitling,Avenger,3395.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-45-seawolf-yellow-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Chronomat,4595.00,https://www.bobswatches.com/breitling/breitling-chronomat-44-white-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Navitimer B01,6595.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-chronograph-46-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Superocean 46,4695.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Avenger GMT 44,3995.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-gmt-44-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Chronomat,8595.00,https://www.bobswatches.com/breitling/pre-owned-breitling-super-chronomat-b01-44-steel-and-18k-red-gold.html,Automatic,Steel and Rose Gold,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,5795.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-44-green-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Superocean 44,3195.00,https://www.bobswatches.com/breitling/breitling-superocean-44-dlc-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Premier,6695.00,https://www.bobswatches.com/breitling/breitling-premier-b09-chronograph-40-champagne-dial.html,Manual,Stainless Steel,Arabic,Tachymetric,2010 - Present,No
+Breitling,Avenger,4695.00,https://www.bobswatches.com/breitling/breitling-avenger-automatic-42-night-mission-ceramic.html,Automatic,Ceramic,Arabic,Timing,2010 - Present,No
+Breitling,Super Avenger B01,6895.00,https://www.bobswatches.com/breitling/breitling-super-avenger-b01-chronograph-46-black-dial.html,Automatic,Titanium,Index,Timing,2010 - Present,No
+Breitling,Avenger B01,5995.00,https://www.bobswatches.com/breitling/breitling-avenger-b01-chronograph-44-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Exospace B55,5495.00,https://www.bobswatches.com/breitling/pre-owned-breitling-exospace-b55-chronograph-digital-display.html,Quartz,Titanium,Arabic,Timing,2010 - Present,Yes
+Breitling,Navitimer,4295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-silver-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2000s,Yes
+Breitling,Super Avenger,4295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-super-avenger-chronograph-48-night-mission-blue-dial.html,Automatic,Titanium,Arabic,Timing,2010 - Present,No
+Breitling,Bentley,4195.00,https://www.bobswatches.com/breitling/breitling-for-bentley-motors-gt-green-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2000s,Yes
+Breitling,Navitimer B01,4595.00,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-8-b01-blue-dial.html,Automatic,Stainless Steel,Arabic,Slide Rule,2010 - Present,Yes
+Breitling,Navitimer,4495.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-36-green-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer B01,6995.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-airline-edition.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Bentley,4595.00,https://www.bobswatches.com/breitling/breitling-bentley-gt-ref-a13362-stainless-steel.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Chronomat,6295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-super-chronomat-b01-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Premier,5495.00,https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b01-black-dial-and-leather-strap.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Breitling,Chronomat,4295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-automatic-gmt-40-grey-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Chronomat,3995.00,https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-automatic-36-green-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Superocean 44,4795.00,https://www.bobswatches.com/breitling/breitling-superocean-chrono-ii-stainless-steel.html,Automatic,Stainless Steel,Luminous,Timing,2010 - Present,Yes
+Breitling,Bentley,5995.00,https://www.bobswatches.com/breitling/breitling-bentley-675-silver-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Superocean Heritage,3795.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b01-chronograph-44-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Navitimer,4395.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-on-red-leather-strap.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,No
+Breitling,Navitimer,4495.00,https://www.bobswatches.com/breitling/breitling-navitimer-chronograph-41-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Bentley,4595.00,https://www.bobswatches.com/breitling/breitling-bentley-gt-special-edition.html,Automatic,Stainless Steel,Index,Tachymetric,2000s,Yes
+Breitling,Avenger,3595.00,https://www.bobswatches.com/breitling/pre-owned-breitling-avenger-automatic-42-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Galactic,2795.00,https://www.bobswatches.com/breitling/breitling-galactic-36-stainless-steel-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Navitimer Automatic 41,4995.00,https://www.bobswatches.com/breitling/breitling-navitimer-1-automatic-41-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer,3495.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-diamond-mother-of-pearl-dial.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,Yes
+Breitling,Superocean 44,4695.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-chronograph-44-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Bentley,4895.00,https://www.bobswatches.com/breitling/used-breitling-bentley-stainless-steel-silver-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2000s,Yes
+Breitling,Superocean 46,4495.00,https://www.bobswatches.com/breitling/breitling-superocean-heritage-b20-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Not listed
+Breitling,Premier,10995.00,https://www.bobswatches.com/breitling/breitling-premier-b25-datora-42-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Breitling,Top Time,5695.00,https://www.bobswatches.com/breitling/breitling-top-time-deus-stainless-steel-on-leather.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,No
+Breitling,Galactic,6495.00,https://www.bobswatches.com/breitling/breitling-galactic-stainless-steel-white-dial.html,Automatic,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Breitling,Superocean 44,3995.00,https://www.bobswatches.com/breitling/breitling-superocean-44-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Not listed
+Breitling,Navitimer,3295.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-pink-leather-strap.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,No
+Breitling,Superocean 46,3795.00,https://www.bobswatches.com/breitling/breitling-superocean-black-dial-dlc-steel.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Galactic,2995.00,https://www.bobswatches.com/breitling/breitling-galactic-36-black-dial.html,Quartz,Stainless Steel,Index,Smooth,2010 - Present,Yes
+Breitling,Bentley,4495.00,https://www.bobswatches.com/breitling/breitling-bentley-black-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2000s,Yes
+Breitling,Premier,5195.00,https://www.bobswatches.com/breitling/breitling-premier-chronograph-42-black-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Breitling,Premier,6695.00,https://www.bobswatches.com/breitling/breitling-premier-b01-chronograph-42-black-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,No
+Breitling,Navitimer B01,7595.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-chronograph-blue-index-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Chronomat,5695.00,https://www.bobswatches.com/breitling/pre-owned-breitling-chronomat-44-steel.html,Automatic,Stainless Steel,Roman,Timing,2010 - Present,Yes
+Breitling,Super Avenger,3495.00,https://www.bobswatches.com/breitling/breitling-super-avenger-chronograph-white-arabic-dial.html,Automatic,Stainless Steel,Arabic,Timing,2000s,Yes
+Breitling,Navitimer,6695.00,https://www.bobswatches.com/breitling/breitling-navitimer-limited-edition-black-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Chronomat,7195.00,https://www.bobswatches.com/breitling/breitling-chronomat-b01-42-grey-dial.html,Automatic,Titanium,Index,Timing,2010 - Present,No
+Breitling,Navitimer,5295.00,https://www.bobswatches.com/breitling/breitling-navitimer-chronograph-gmt-46-black-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Navitimer Automatic 41,5195.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-41-steel-and-18k-red-gold-silver-dial.html,Automatic,Steel and Rose Gold,Index,Slide Rule,2010 - Present,No
+Breitling,Avenger Chronograph,4495.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Premier,7295.00,https://www.bobswatches.com/breitling/breitling-premier-b15-duograph-42-stainless-steel.html,Manual,Stainless Steel,Arabic,Smooth,2010 - Present,No
+Breitling,Avenger Chronograph,4895.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-gmt-45-black-arabic-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,No
+Breitling,Avenger Chronograph,4295.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-blue-dial-and-strap.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Avenger Chronograph,4195.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-blue-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Avenger Chronograph,4195.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-stainless-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Superocean,4295.00,https://www.bobswatches.com/breitling/breitling-superocean-automatic-48-blue-dial.html,Automatic,Titanium,Index,Timing,2010 - Present,No
+Breitling,Navitimer,3195.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-on-leather-strap-green-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer Automatic 41,5095.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-41-steel-on-leather-silver-dial.html,Automatic,Steel and Rose Gold,Index,Slide Rule,2010 - Present,No
+Breitling,Avenger Chronograph,3995.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-gmt-45-blue-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,No
+Breitling,Navitimer,9595.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-18k-red-gold.html,Automatic,Rose Gold,Diamond,Slide Rule,2010 - Present,Not listed
+Breitling,Navitimer,7195.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-and-18k-red-gold.html,Automatic,Steel and Rose Gold,Diamond,Slide Rule,2010 - Present,Not listed
+Breitling,Navitimer,4295.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-on-burgundy-strap.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,Yes
+Breitling,Super Avenger,4695.00,https://www.bobswatches.com/breitling/breitling-super-avenger-chronograph-48-night-mission-blue-dial.html,Automatic,Titanium,Arabic,Timing,2010 - Present,No
+Breitling,Navitimer,3595.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-copper-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer,4395.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-mother-of-pearl-dial-on-burgundy-strap.html,Automatic,Stainless Steel,Diamond,Slide Rule,2010 - Present,Yes
+Breitling,Navitimer,3595.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-blue-dial-and-leather-strap.html,Automatic,Stainless Steel,Index,Not listed,2010 - Present,No
+Breitling,Avenger Chronograph,4795.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-gmt-45-steel-on-anthracite-strap.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,No
+Breitling,Navitimer,3195.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-on-green-leather-strap.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer,4395.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-steel-on-pink-leather-strap.html,Automatic,Stainless Steel,Diamond,Not listed,2010 - Present,No
+Breitling,Navitimer,3095.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-silver-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Breitling,Avenger Chronograph,3995.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-45-stainless-steel-black-dial.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,No
+Breitling,Navitimer,3895.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-green-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Breitling,Navitimer Automatic 41,6695.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-41-stainless-steel-and-18k-red-gold.html,Automatic,Steel and Rose Gold,Index,Tachymetric,2010 - Present,No
+Breitling,Navitimer,3895.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-stainless-steel.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Navitimer,4595.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-mother-of-pearl-diamond-dial.html,Automatic,Stainless Steel,Diamond,Not listed,2010 - Present,No
+Breitling,Avenger Chronograph,4995.00,https://www.bobswatches.com/breitling/breitling-avenger-chronograph-gmt-45-black-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,No
+Breitling,Super Avenger,4295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-super-avenger-chronograph-48.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Navitimer B01,9795.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-chronograph-41-diamond-bezel.html,Automatic,Stainless Steel,Index,Diamond,2010 - Present,No
+Breitling,Bentley,5995.00,https://www.bobswatches.com/breitling/breitling-bentley-gmt-limited-edition-stainless-steel.html,Automatic,Stainless Steel,Index,Tachymetric,Not listed,Yes
+Breitling,Navitimer,3995.00,https://www.bobswatches.com/breitling/breitling-navitimer-automatic-35-stainless-steel-blue-dial.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,Yes
+Breitling,Super Avenger II,3195.00,https://www.bobswatches.com/breitling/pre-owned-breitling-avenger-ii-seawolf-black-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Premier,4995.00,https://www.bobswatches.com/breitling/pre-owned-breitling-premier-b01.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,No
+Breitling,Navitimer Automatic 41,4395.00,https://www.bobswatches.com/breitling/breitling-navitimer-gmt-41-automatic-stainless-steel.html,Automatic,Stainless Steel,Index,Tachymetric,2010 - Present,No
+Breitling,Avenger,3495.00,https://www.bobswatches.com/breitling/breitling-super-avenger-black-arabic-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Chronomat,4295.00,https://www.bobswatches.com/breitling/breitling-chronomat-automatic-36-stainless-steel.html,Automatic,Stainless Steel,Diamond,Timing,2010 - Present,No
+Breitling,Superocean 44,4995.00,https://www.bobswatches.com/breitling/pre-owned-breitling-superocean-44-blue.html,Automatic,Bronze,Index,Timing,2010 - Present,No
+Breitling,Super Avenger,3095.00,https://www.bobswatches.com/breitling/used-breitling-super-avenger-steel-48mm.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Navitimer B01,5995.00,https://www.bobswatches.com/breitling/pre-owned-breitling-navitimer-01-black-dial.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,No
+Breitling,Super Avenger II,3995.00,https://www.bobswatches.com/breitling/pre-owned-breitling-super-avenger-ii-stainless-steel.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Premier,6295.00,https://www.bobswatches.com/breitling/breitling-premier-b09-chronograph-40-stainless-steel.html,Manual,Stainless Steel,Arabic,Tachymetric,2010 - Present,No
+Breitling,Premier,5495.00,https://www.bobswatches.com/breitling/breitling-premier-b01-chronograph-42-norton-stainless-steel.html,Automatic,Stainless Steel,Arabic,Smooth,2010 - Present,Not listed
+Breitling,Avenger,3295.00,https://www.bobswatches.com/breitling/pre-owned-breitling-avenger-stainless-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Navitimer,6595.00,https://www.bobswatches.com/breitling/breitling-navitimer-gmt-stainless-steel.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Yes
+Breitling,Chronomat,2995.00,https://www.bobswatches.com/breitling/breitling-chronomat-evolution-blue-dial.html,Automatic,Stainless Steel,Arabic,Timing,2000s,Yes
+Breitling,Chronomat,2695.00,https://www.bobswatches.com/breitling/breitling-chronomat-32-stainless-steel.html,Quartz,Stainless Steel,Index,Notched,2010 - Present,Yes
+Breitling,Navitimer B01,6495.00,https://www.bobswatches.com/breitling/breitling-navitimer-b01-chronograph-41-stainless-steel.html,Automatic,Stainless Steel,Index,Slide Rule,2010 - Present,Not listed
+Breitling,Superocean,2695.00,https://www.bobswatches.com/breitling/used-breitling-superocean-black-arabic-dial.html,Automatic,Stainless Steel,Arabic,Timing,2010 - Present,Yes
+Breitling,Super Avenger II,3995.00,https://www.bobswatches.com/breitling/breitling-super-avenger-ii-stainless-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Chronomat,5895.00,https://www.bobswatches.com/breitling/breitling-super-chronomat-b01-steel.html,Automatic,Stainless Steel,Index,Timing,2010 - Present,Yes
+Breitling,Exospace B55,4795.00,https://www.bobswatches.com/breitling/breitling-exospace-b55-chronograph-digital-display.html,Quartz,Titanium,Arabic,Timing,2010 - Present,Yes

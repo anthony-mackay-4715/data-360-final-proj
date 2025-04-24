@@ -12,5 +12,5 @@ st.title('Bob''s Watches Luxury Watch Resale App')
 st.write("This is an app meant to display trends and analytics for the watches listed on [Bob's Watches](https://www.bobswatches.com/)." )
 
 #Read in and display the data
-data = pd.read_csv('chicken_recipes.csv')
+data = pd.read_csv('data-360-final-proj/final_watches.csv')
 st.dataframe(data)
