@@ -137,14 +137,13 @@ if st.button("Display/Hide Visualizations"):
 if st.session_state.show_chart:
     st.header("Average Watch Price by Selected Grouping")
 
-    # Year filter (Dropdown)
     groupings = ['Manufacturer', 'Metal', 'Year', 'Bezel Type', 'Discontinued']
     selected_grouping = st.selectbox("Grouping Method", groupings, index=0)
     
     # Calculate average price by selected grouping
     group_avg_price = data.groupby(f'{selected_grouping}')['Price ($)'].mean().reset_index().sort_values('Price ($)', ascending=False)
     
-    # Create a bar chart with Plotly Express
+    # Create a bar chart 
     fig = px.bar(
         group_avg_price, 
         x=selected_grouping, 
