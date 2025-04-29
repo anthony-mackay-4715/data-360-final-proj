@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 #Set the page configuration
 st.set_page_config(page_title="Luxury Watches", layout="wide")
@@ -107,16 +107,28 @@ if st.session_state.show_chart:
     groupings = ['Manufacturer', 'Metal', 'Year', 'Bezel Type', 'Discontinued']
     selected_grouping = st.selectbox("Grouping Method", groupings, index=0)
     
-    # Calculate average price by manufacturer
-    brand_avg_price = data.groupby(f'{selected_grouping}')['Price ($)'].mean().sort_values(ascending=False)
+    # Calculate average price by selected grouping
+    group_avg_price = data.groupby(f'{selected_grouping}')['Price ($)'].mean().reset_index().sort_values('Price ($)', ascending=False)
     
-    # Create a bar chart
-    fig, ax = plt.figure(figsize=(10, 6)), plt.axes()
-    brand_avg_price.plot(kind='bar', ax=ax)
-    plt.xticks(rotation=45, ha='right')
-    plt.xlabel('Brand')
-    plt.ylabel('Average Price ($)')
-    plt.tight_layout()
+    # Create a bar chart with Plotly Express
+    fig = px.bar(
+        group_avg_price, 
+        x=selected_grouping, 
+        y='Price ($)',
+        title=f'Average Price by {selected_grouping}',
+        labels={selected_grouping: selected_grouping, 'Price ($)': 'Average Price ($)'},
+        color='Price ($)',  # Add color gradient based on price
+        color_continuous_scale='Viridis'  # Choose a color scale
+    )
+    
+    # Customize layout
+    fig.update_layout(
+        xaxis_title=selected_grouping,
+        yaxis_title='Average Price ($)',
+        xaxis_tickangle=-45,
+        height=600,
+        width=800
+    )
     
     # Display the chart in Streamlit
-    st.pyplot(fig)
+    st.plotly_chart(fig, use_container_width=True)
