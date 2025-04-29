@@ -13,7 +13,7 @@ st.write("This app displays watches listed on [Bob's Watches](https://www.bobswa
 #Read in the data
 # Ensure the path is correct relative to where you run streamlit
 try:
-    data = pd.read_csv('data-360-final-proj/final_watches.csv')
+    data = pd.read_csv('final_watches.csv')
     data = data[data['Price ($)'] != 'Not listed']
     data['Price ($)'] = data['Price ($)'].astype(float)
     filter_cols = ['Manufacturer', 'Model', 'Metal', 'Year']
