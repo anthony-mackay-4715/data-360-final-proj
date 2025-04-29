@@ -52,12 +52,43 @@ else:
 available_models = ['All'] + sorted(filtered_by_manufacturer['Model'].unique())
 selected_model = st.sidebar.selectbox("Model", available_models, index=0)
 
-metal_types = ['All'] + sorted(data['Metal'].unique())
+# Apply manufacturer and model filters to get data for metal filter
+filtered_for_metal = filtered_by_manufacturer.copy()
+if selected_model != 'All':
+    filtered_for_metal = filtered_for_metal[filtered_for_metal['Model'] == selected_model]
+
+metal_types = ['All'] + sorted(filtered_for_metal['Metal'].unique())
 selected_metal_type = st.sidebar.selectbox("Metal Type", metal_types, index=0)
 
-# Year filter (Dropdown)
-years = ['All'] + sorted(data['Year'].unique())
+# Apply manufacturer, model, and metal filters to get data for year filter
+filtered_for_year = filtered_for_metal.copy()
+if selected_metal_type != 'All':
+    filtered_for_year = filtered_for_year[filtered_for_year['Metal'] == selected_metal_type]
+
+years = ['All'] + sorted(filtered_for_year['Year'].unique())
 selected_year = st.sidebar.selectbox("Year", years, index=0)
+
+# Apply all filters to get data for price slider
+filtered_for_price = filtered_for_year.copy()
+if selected_year != 'All':
+    filtered_for_price = filtered_for_price[filtered_for_price['Year'] == selected_year]
+
+# Price Range Slider with dynamic min/max based on filtered data
+if len(filtered_for_price) > 0:
+    min_price = int(filtered_for_price['Price ($)'].min())
+    max_price = int(filtered_for_price['Price ($)'].max())
+else:
+    min_price = int(data['Price ($)'].min())
+    max_price = int(data['Price ($)'].max())
+
+st.sidebar.subheader("Price Range")
+price_range = st.sidebar.slider(
+    "Select Price Range ($)",
+    min_value=min_price,
+    max_value=max_price,
+    value=(min_price, max_price),
+    step=1000
+)
 
 # --- Apply Filters ---
 filtered_data = data.copy()
@@ -75,6 +106,9 @@ if selected_metal_type != 'All':
 if selected_year != 'All':
     filtered_data = filtered_data[filtered_data['Year'] == selected_year]
 
+# Apply price range filter
+filtered_data = filtered_data[(filtered_data['Price ($)'] >= price_range[0]) & 
+                             (filtered_data['Price ($)'] <= price_range[1])]
 
 # --- Main Page Display ---
 
