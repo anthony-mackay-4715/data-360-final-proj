@@ -8,12 +8,14 @@ st.set_page_config(page_title="Luxury Watches", layout="wide")
 
 #Create a title and subheader
 st.title('Luxury Watches For Sale Online')
-st.write("This app displays watches listed on [Bob's Watches](https://www.bobswatches.com/). Use the filters in the sidebar to narrow down the results." )
+st.write("This app displays watches listed on [Bob's Watches](https://www.bobswatches.com/) as well as pricing visualizations." )
 
 #Read in the data
 # Ensure the path is correct relative to where you run streamlit
 try:
     data = pd.read_csv('data-360-final-proj/final_watches.csv')
+    data = data[data['Price ($)'] != 'Not listed']
+    data['Price ($)'] = data['Price ($)'].astype(float)
     filter_cols = ['Manufacturer', 'Model', 'Metal', 'Year']
     for col in filter_cols:
         if col in data.columns:
@@ -88,3 +90,33 @@ st.dataframe(filtered_data, hide_index=True, column_config=column_config)
 
 # Show number of watches after filtering
 st.write(f"Showing {len(filtered_data)} watches out of {len(data)} total watches based on current filters.")
+
+# Initialize the session state for chart visibility if it doesn't exist
+if 'show_chart' not in st.session_state:
+    st.session_state.show_chart = False
+
+# Add a button to toggle the price by brand visualization
+if st.button("Display/Hide Visualizations"):
+    st.session_state.show_chart = not st.session_state.show_chart
+
+# Display the chart based on the session state
+if st.session_state.show_chart:
+    st.header("Average Watch Price by Selected Grouping")
+
+    # Year filter (Dropdown)
+    groupings = ['Manufacturer', 'Metal', 'Year', 'Bezel Type', 'Discontinued']
+    selected_grouping = st.selectbox("Grouping Method", groupings, index=0)
+    
+    # Calculate average price by manufacturer
+    brand_avg_price = data.groupby(f'{selected_grouping}')['Price ($)'].mean().sort_values(ascending=False)
+    
+    # Create a bar chart
+    fig, ax = plt.figure(figsize=(10, 6)), plt.axes()
+    brand_avg_price.plot(kind='bar', ax=ax)
+    plt.xticks(rotation=45, ha='right')
+    plt.xlabel('Brand')
+    plt.ylabel('Average Price ($)')
+    plt.tight_layout()
+    
+    # Display the chart in Streamlit
+    st.pyplot(fig)
