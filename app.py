@@ -36,7 +36,7 @@ except Exception as e:
     st.stop()
 
 # --- Sidebar Filters ---
-st.sidebar.header("Filters")
+st.sidebar.header("Filter Watch Listings")
 
 # Manufacturer filter (Dropdown)
 manufacturers = ['All'] + sorted(data['Manufacturer'].unique())
@@ -118,7 +118,6 @@ if st.session_state.show_chart:
         title=f'Average Price by {selected_grouping}',
         labels={selected_grouping: selected_grouping, 'Price ($)': 'Average Price ($)'},
         color='Price ($)',  # Add color gradient based on price
-        color_continuous_scale='Viridis'  # Choose a color scale
     )
     
     # Customize layout
@@ -126,8 +125,8 @@ if st.session_state.show_chart:
         xaxis_title=selected_grouping,
         yaxis_title='Average Price ($)',
         xaxis_tickangle=-45,
-        height=600,
-        width=800
+        height=650,
+        width=850
     )
     
     # Display the chart in Streamlit
